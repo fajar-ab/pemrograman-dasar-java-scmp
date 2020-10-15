@@ -31,7 +31,7 @@ public class Operasi {
     	return hasil2;
     }
 
-    int gitNilaiPerkalian() {
+    int getNilaiPerkalian() {
 
     	hasil1 = nilai1 * nilai2;
     	return hasil1;
