@@ -27,9 +27,9 @@ public class KonversiMatauang {
 		System.out.println("\nKONVERSI NILAI MATA UANG DOLAR DAN RUPIAH");
 
 		// System.out.print("Masukkan nilai Rupiah : ");
-		// nilaiRupiah = userInput.nextdouble(); 
+		// nilaiRupiah = userInput.nextDouble(); 
 		// System.out.print("Masukkan nilai Dolar  : ");
-		// nilaiDolar = userInput.nextdouble();
+		// nilaiDolar = userInput.nextDouble();
 
 		nilaiRupiah =  1.0;
 		nilaiDolar  =  1.0; 
@@ -40,8 +40,8 @@ public class KonversiMatauang {
 		hasilRupiah = nilai.konversiRupiah(nilaiDolar);
 
 		System.out.println("\nKonversi .........\n");
-		System.out.println("Pp. " + nilaiRupiah + " = USD $. " + hasilDolar);
-		System.out.println("USD $." + nilaiDolar + " =  Pp. " + hasilRupiah);
+		System.out.println("Rp. " + nilaiRupiah + " = USD. " + hasilDolar);
+		System.out.println("USD. " + nilaiDolar + " = Rp. " + hasilRupiah);
 
 	} 
     
