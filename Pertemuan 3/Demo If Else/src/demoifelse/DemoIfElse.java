@@ -35,7 +35,7 @@ public class DemoIfElse {
 					System.out.println("\nNilai anda : C");
 
 				}
-
+			// jika seleksi kondisi bernilai false jalankan:
 			}else {
 
 				System.out.println("\nMaaf, Anda harus mengulang " +
