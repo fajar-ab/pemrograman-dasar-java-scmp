@@ -17,13 +17,12 @@ class MataUang {
 	}
 
 }
+class KonversiMatauang {
 
-public class KonversiMatauang {
-
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		Scanner userInput = new Scanner(System.in);
 		double nilaiRupiah, nilaiDolar, hasilRupiah, hasilDolar;
-
+	
 		System.out.println("\nKONVERSI NILAI MATA UANG DOLAR DAN RUPIAH");
 
 		// System.out.print("Masukkan nilai Rupiah : ");
