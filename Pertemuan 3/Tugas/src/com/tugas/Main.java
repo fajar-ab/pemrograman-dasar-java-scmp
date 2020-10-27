@@ -75,7 +75,7 @@ public class Main {
     				               " > Sederhana, nyaman, dapat di percaya.");
     			break;
     		default:
-    		System.out.println("\nMaaf.....\n"+
+    			System.out.println("\nMaaf.....\n"+
     				               "input yang anda masukkan tidak benar\n"+
     				               "pilih warna dari 1 - 8 saja. ");
     	}
