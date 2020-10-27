@@ -65,19 +65,19 @@ public class Main {
     				               " > Realistis, suka bergaya, pesimis.");
     			break;
     		case 7:
-    	    	System.out.println("\nPutih......\n"+
-    	    		               "------------------------------------\n"+
-    	    		               " > Teliti, polos, ingin menyakinkan.");
-    	    	break;
-    	    case 8:
-    	    	System.out.println("\nCoklat......\n"+
-    	    		               "---------------------------------------\n"+
-    	    		               " > Sederhana, nyaman, dapat di percaya.");
-    	    	break;
-    	    default:
-    	    	System.out.println("\nMaaf.....\n"+
-    	    	                   "input yang anda masukkan tidak benar\n"+
-    	    	                   "pilih warna dari 1 - 8 saja. ");
+    			System.out.println("\nPutih......\n"+
+    				               "------------------------------------\n"+
+    				               " > Teliti, polos, ingin menyakinkan.");
+    			break;
+    		case 8:
+    			System.out.println("\nCoklat......\n"+
+    				               "---------------------------------------\n"+
+    				               " > Sederhana, nyaman, dapat di percaya.");
+    			break;
+    		default:
+    		System.out.println("\nMaaf.....\n"+
+    				               "input yang anda masukkan tidak benar\n"+
+    				               "pilih warna dari 1 - 8 saja. ");
     	}
     }
 }
