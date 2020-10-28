@@ -1,7 +1,7 @@
 /*
 	Tugas : Membuat program yang dapat menampilkan kepribadian seseorang melalui
 	        warna favorit dengan kondisi switch
-	Nama  : Fajar Fadiah
+	Nama  : Fajar Fadilah
 */
 
 package com.tugas;
