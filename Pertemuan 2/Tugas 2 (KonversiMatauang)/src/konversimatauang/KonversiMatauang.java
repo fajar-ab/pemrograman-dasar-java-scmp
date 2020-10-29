@@ -7,12 +7,12 @@ class MataUang {
 	double rupiah, dolar;
 
 	public double konversiDolar(double nilaiRupiah) {
-		dolar = nilaiRupiah * 0.0068;
+		dolar = nilaiRupiah * 0.000068d;
 		return dolar;
 	}
 
 	public double konversiRupiah(double nilaiDolar) {
-		rupiah = nilaiDolar * 14764.35;
+		rupiah = nilaiDolar * 14764.35d;
 		return rupiah;
 	}
 
@@ -30,8 +30,8 @@ public static void main(String[] args) {
 		// System.out.print("Masukkan nilai Dolar  : ");
 		// nilaiDolar = userInput.nextDouble();
 
-		nilaiRupiah =  1.0;
-		nilaiDolar  =  1.0; 
+		nilaiRupiah =  1.0d;
+		nilaiDolar  =  1.0d; 
 
 		MataUang nilai = new MataUang();
 
@@ -39,8 +39,8 @@ public static void main(String[] args) {
 		hasilRupiah = nilai.konversiRupiah(nilaiDolar);
 
 		System.out.println("\nKonversi .........\n");
-		System.out.println("Rp. " + nilaiRupiah + " = USD. " + hasilDolar);
-		System.out.println("USD. " + nilaiDolar + " = Rp. " + hasilRupiah);
+		System.out.printf("Rp. %f = USD. %f\n",nilaiRupiah, hasilDolar);
+		System.out.printf("USD. %f = Rp. %f", nilaiDolar, hasilRupiah);
 
 	} 
     
