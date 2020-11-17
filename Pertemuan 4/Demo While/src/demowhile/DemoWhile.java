@@ -1,7 +1,7 @@
 /*
 	Title      : Program Demo while
 	
-	Deskripsi  : Mendemonstrasikan pemakaian perulangan for untuk
+	Deskripsi  : Mendemonstrasikan pemakaian perulangan While untuk
 	             mencetak statement ke console sebanyak n kali.
 
 */
