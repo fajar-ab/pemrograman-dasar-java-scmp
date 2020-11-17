@@ -1,5 +1,5 @@
 /*
-	Title      : Program Demo For
+	Title      : Program Demo while
 	
 	Deskripsi  : Mendemonstrasikan pemakaian perulangan for untuk
 	             mencetak statement ke console sebanyak n kali.
