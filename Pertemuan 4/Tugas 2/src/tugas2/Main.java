@@ -20,7 +20,7 @@ public class Main {
     		
     		System.out.print("Masukkan data ke-"+i+" : ");
     		data = userInput.nextDouble();
-    		
+
     		if(data < 0){
     			continue;
     		} else {
@@ -30,7 +30,7 @@ public class Main {
 
     	hasil = jumlah / n;
 
-		System.out.println("--------------------");
+    	System.out.println("--------------------");
     	System.out.println("Jumah : " + hasil);
     }
 }
