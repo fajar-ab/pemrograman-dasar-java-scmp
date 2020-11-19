@@ -16,19 +16,24 @@ public class Main {
     	n = userInput.nextInt();
     	System.out.println("\n--------------------");
 
+        int a = 0;
+
     	for (int i = 1; i <= n; i++) {
+            a = n;
     		
     		System.out.print("Masukkan data ke-"+i+" : ");
     		data = userInput.nextDouble();
 
     		if(data < 0){
+                a -= 1;
+                System.out.println("- bilangan negatif");
     			continue;
     		} else {
     			jumlah += data;
 			}
     	}
 
-    	hasil = jumlah / n;
+    	hasil = jumlah / a;
 
     	System.out.println("--------------------");
     	System.out.println("Jumah : " + hasil);
