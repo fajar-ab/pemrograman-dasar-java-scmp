@@ -20,7 +20,7 @@ public class Contoh6 {
     		i++;
     	}while(input > 0);
 
-    	for(int j = 0; j < i-1; i++) {
+    	for(int j = 0; j < i-1; j++) {
 
     		total = total + angka.get(j);
 
@@ -37,7 +37,6 @@ public class Contoh6 {
 
     	System.out.println("Nilai total adalah  " + total);
     	float rata = total / (i + 1);
-
     	System.out.println("Nilai rata-rata adalah  " + rata);
     	System.out.println("Nilai maksimal adalah  " + maksimal);
     	System.out.println("Nilai minimal adalah  " + minimal);
