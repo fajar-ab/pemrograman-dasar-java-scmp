@@ -1,3 +1,5 @@
+// Program Demo Konversi Suhu - Pertemuan 2
+
 package demokonversisuhu;
 
 class Temperatur {

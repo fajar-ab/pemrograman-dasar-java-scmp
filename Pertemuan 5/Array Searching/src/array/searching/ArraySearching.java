@@ -1,3 +1,5 @@
+// Program Array Searching - Pertemuan 5
+
 package array.searching;
 import java.util.Scanner;
 

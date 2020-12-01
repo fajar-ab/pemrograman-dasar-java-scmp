@@ -1,3 +1,5 @@
+// Progaram Demo Matematika - Pertemuan 2
+
 package demomatemetika;
 
 class Matematika {

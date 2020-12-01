@@ -1,3 +1,5 @@
+// Program Bilangan Prima - Pertemuan 4
+
 package bilanganprima;
 import java.util.Scanner;
 

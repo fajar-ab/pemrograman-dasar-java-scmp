@@ -1,3 +1,5 @@
+// Program Jumlah - Pertemuan 4
+
 package jumlah;
 import java.util.Scanner;
 

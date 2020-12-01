@@ -1,3 +1,5 @@
+// Program Demo Switch - Pertemuan 3
+
 package demoswitch;
 import java.util.Scanner;
 
