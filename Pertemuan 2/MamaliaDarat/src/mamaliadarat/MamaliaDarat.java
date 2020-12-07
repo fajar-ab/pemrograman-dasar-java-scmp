@@ -1,3 +1,5 @@
+// Program Mamalia Darat - Pertemuan 2
+
 package mamaliadarat;
 import java.util.Scanner;
 

@@ -1,3 +1,5 @@
+// Program Demo If - Pertemuan 3
+
 package demoif;
 import java.util.Scanner;
 

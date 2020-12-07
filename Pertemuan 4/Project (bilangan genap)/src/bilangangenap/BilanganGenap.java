@@ -1,3 +1,5 @@
+// Program Bilangan Genap - Pertemuan 4
+
 package bilangangenap;
 import java.util.Scanner;
 
