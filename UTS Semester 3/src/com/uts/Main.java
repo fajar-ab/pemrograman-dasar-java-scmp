@@ -64,15 +64,15 @@ public class Main {
 		
 		switch(ukuran) {
 			case 1:
-				hargaSatuan = 30000;
+				hargaSatuan = 20000;
 				total(hargaSatuan);
 				break;
 			case 2:
-				hargaSatuan = 35000;
+				hargaSatuan = 25000;
 				total(hargaSatuan);
 				break;
 			case 3:
-				hargaSatuan = 40000;
+				hargaSatuan = 30000;
 				total(hargaSatuan);
 				break;
 			default:
@@ -90,15 +90,15 @@ public class Main {
 		
 		switch(ukuran) {
 			case 1:
-				hargaSatuan = 25000;
-				total(hargaSatuan);
-				break;
-			case 2:
 				hargaSatuan = 30000;
 				total(hargaSatuan);
 				break;
+			case 2:
+				hargaSatuan = 35000;
+				total(hargaSatuan);
+				break;
 			case 3:
-				hargaSatuan = 45000;
+				hargaSatuan = 40000;
 				total(hargaSatuan);
 				break;
 			default:
