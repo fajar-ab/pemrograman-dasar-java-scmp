@@ -122,12 +122,12 @@ public class Main {
 	public static void show(){
 		char[] a = {78,97,109,97,32,58,32,70,97,106,97,114,32,70,97,100,105,108,97,104};
 		char[] b = {78,73,77,32,32,58,32,50,48,49,57,48,49,48,48,49,50};
-		for(int i = 0; i < a.length; i++){
-			System.out.print(a[i]);
+		for(char nama: a){
+			System.out.print(nama);
 		}
 		System.out.println();
-		for(int j = 0; j < b.length; j++) {
-			System.out.print(b[j]);
+		for(char nim : b) {
+			System.out.print(nim);
 		}
 	}
 }
