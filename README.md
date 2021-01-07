@@ -9,5 +9,5 @@ Repo ini akan selalu di update selama perkuliahan pemograman 1 java berlangsung
 
 Para pengcopy adalah
 - nisa
-- tahlilan
+- tazlula
 - ummy
