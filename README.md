@@ -7,3 +7,7 @@ Repo ini akan selalu di update selama perkuliahan pemograman 1 java berlangsung
 
 > 👉 Lihat kembali package yang di gunakan dalam program
 
+Para pengcopy adalah
+- nisa
+- tahlilan
+- ummy
