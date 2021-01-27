@@ -1,3 +1,3 @@
 
 > ### NOTE : MAKIN LAMA MAKIN SUSAH PROGRAM NYA 😭😭😭 APALAGI NGANTUK
-<font size="300>BANGSAT</font>
+<font size="300">BANGSAT</font>
