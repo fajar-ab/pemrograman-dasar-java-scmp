@@ -191,34 +191,36 @@ Berikut ini adalah daftar 44 buah Keyword java :
 		<td>break</td>
 		<td>byte</td>
 		<td>case</td>
-		<td>catch</td>
 	</tr>
 	<tr>
+		<td>catch</td>
 		<td>char</td>
 		<td>class</td>
 		<td>const</td>
 		<td>continue</td>
-		<td>default</td>
-		<td>do</td>
 	</tr>
 	<tr>
+		<td>default</td>
+		<td>do</td>
 		<td>double</td>
 		<td>else</td>
 		<td>extends</td>
+	</tr>
+	<tr>
 		<td>final</td>
 		<td>finally</td>
 		<td>float</td>
-	</tr>
-	<tr>
 		<td>for</td>
 		<td>goto</td>
+	</tr>
+	<tr>
 		<td>if</td>
 		<td>implements</td>
 		<td>import</td>
 		<td>instanceof</td>
+		<td>int</td>
 	</tr>
 	<tr>
-		<td>int</td>
 		<td>interface</td>
 		<td>long</td>
 		<td>native</td>
@@ -231,30 +233,26 @@ Berikut ini adalah daftar 44 buah Keyword java :
 		<td>public</td>
 		<td>return</td>
 		<td>short</td>
-		<td>static</td>
 	</tr>
 	<tr>
+		<td>static</td>
 		<td>strictfp</td>
 		<td>super</td>
 		<td>switch</td>
 		<td>synchronized</td>
+	</tr>
+	<tr>
 		<td>this</td>
 		<td>throw</td>
+		<td>throws</td>
+		<td>transient</td>
+		<td>try</td>
 	</tr>
 	<tr>
-		<td style="text-align: center; vertical-align: middle;">throws</td>
-		<td style="text-align: center; vertical-align: middle;">transient</td>
-		<td style="text-align: center; vertical-align: middle;">try</td>
-		<td style="text-align: center; vertical-align: middle;">void</td>
-		<td style="text-align: center; vertical-align: middle;">volatile</td>
-		<td style="text-align: center; vertical-align: middle;">while</td>
-	</tr>
-	<tr>
-		<td style:"text-align: center; vertical-align: middle;">assert</td>
-		<td style:"text-align: center; vertical-align: middle;">enum</td>
-		<td style:"text-align: center; vertical-align: middle;"></td>
-		<td style:"text-align: center; vertical-align: middle;"></td>
-		<td style:"text-align: center; vertical-align: middle;"></td>
-		<td style:"text-align: center; vertical-align: middle;"></td>
+		<td>void</td>
+		<td>volatile</td>
+		<td>while</td>
+		<td>assert</td>
+		<td>enum</td>
 	</tr>
 </table>
