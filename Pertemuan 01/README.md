@@ -1,15 +1,22 @@
 # Pertemuan 1
 
-### A. Tujuaan
+### STMIK Citra Mandiri Padangsidimuan
+
+**Parodi**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Sistem Informasi <br>
+**Jumlah Sks**&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;3SKS <br>
+**Lembaran**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Job Sheet 1 <br>
+**Matakuliah**&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Bahasa Pemograman I <br>
+**Topik_**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Pengenalan OOP
+
+### Tujuaan
 
 1. Dengan mengikuti perkuliahan ini mahasiswa diharapkan mampu menggunakan dan memahami pembuatan program sederhana.
 2. Dengan mengikuti perkuliahan ini mahasiswa diharapkan mampu memahami konsep OOP.
-3. Menggunakan IDE Netbeans.
 
-### B. Alat dan Bahan
+### Alat dan Bahan
 
 1. Personal Computer
-2. Aplikasi Netbeans
+2. IDE / Text Editor 
 
 # Teori Singkat
 
@@ -139,6 +146,7 @@ Konstruktor merupakan metode yang secara otomatis dipanggil ketika sebuah objek 
 Nama konstruktor haruslah sama dengan nama kelasnya. Contoh :
 ```java
 public  class Sepeda {
+
 	private String merk;
 	private int gigi;
 
@@ -146,17 +154,19 @@ public  class Sepeda {
 	this.gigi = 0;
 	this.merk = “Federal”;
 	}
+
 	public Sepeda (int g, String m) {
 	this.gigi = g;
 	this.merk = m;
 	}
+
 	public int posisi_gigi() {
 	return this.gigi;
 	}
+
 	public String merk_sepeda() {
 	return this.merk;
-	}
-	
+	}	
 } 
 ```
 Tampak ada dua konstruktor dari kelas sepeda tersebut, yakni:
