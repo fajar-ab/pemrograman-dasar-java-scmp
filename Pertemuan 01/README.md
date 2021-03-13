@@ -25,11 +25,11 @@ Ide dasar pada OOP adalah mengkombinasikan data dan fungsi untuk mengakses data 
 
 **Kelas** adalah kumpulan dari beberapa objek yang sama.
 
-![Kelas](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Img/01.png)
+![Contoh Kelas](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Img/01.png)
 
 Contoh **Objek :**
 
-![]()
+![Contoh Objek](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/02.png)
 
 Dalam java, kelas didefinisikan menggunakan kata kunci class. Contoh kelas sederhana adalah sebagai berikut :
 ```java
