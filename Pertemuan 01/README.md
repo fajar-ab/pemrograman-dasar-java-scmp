@@ -23,7 +23,7 @@ Object Oriented Programming (OOP) adalah suatu metode dalam pembuatan program, d
 
 Ide dasar pada OOP adalah mengkombinasikan data dan fungsi untuk mengakses data menjadi sebuah kesatuan unit yang dikenal dengan nama objek.
 
-**Kelas** adalah kumpulan dari beberapa objek yang sama.
+**Kelas** adalah kumpulan dari beberapa objek yang sama. <br>
 ![Contoh Kelas](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/01.png)
 Contoh **Objek :**
 
