@@ -183,84 +183,78 @@ Sepeda sepeda2 = new Sepeda(2,”Vixie”);
 
 Pada bab pengenalan java ini kita akan membahas mengenai dasar-dasar bahasa java. Kalau kita belajar bahasa Indonesia pasti yang pertama kita bahas adalah kosa-kata dan pembentukan kalimat seperti SPOK. Bahasa pemrograman Java tidak serumit bahasa indonesia yang mempunyai jutaan kosa kata, Java hanya mempunyai 44 buah kosa kata (Keyword). Semua Keywords ini adalah kepunyaanya bahasa Java, kita harus menggunakanya dengan benar dan tidak boleh digunakan untuk tujuan lain, misalnya sebagai nama variabel atau nama class.
 Berikut ini adalah daftar 44 buah Keyword java :
-<style type="text/css">
-	#cssTable td {
-	    text-align: center; 
-	    vertical-align: middle;
-	}
-</style>
 
-<table id="cssTable">
+<table>
 	<tr>
-		<td>abstract</td>
-		<td>bolean</td>
-		<td>break</td>
-		<td>byte</td>
-		<td>case</td>
-		<td>catch</td>
+		<td style="text-align: center; vertical-align: middle;">abstract</td>
+		<td style="text-align: center; vertical-align: middle;">bolean</td>
+		<td style="text-align: center; vertical-align: middle;">break</td>
+		<td style="text-align: center; vertical-align: middle;">byte</td>
+		<td style="text-align: center; vertical-align: middle;">case</td>
+		<td style="text-align: center; vertical-align: middle;">catch</td>
 	</tr>
 	<tr>
-		<td>char</td>
-		<td>class</td>
-		<td>const</td>
-		<td>continue</td>
-		<td>default</td>
-		<td>do</td>
+		<td style="text-align: center; vertical-align: middle;">char</td>
+		<td style="text-align: center; vertical-align: middle;">class</td>
+		<td style="text-align: center; vertical-align: middle;">const</td>
+		<td style="text-align: center; vertical-align: middle;">continue</td>
+		<td style="text-align: center; vertical-align: middle;">default</td>
+		<td style="text-align: center; vertical-align: middle;">do</td>
+	</tr> style="text-align: center; vertical-align: middle;"
+	<tr>
+		<td style="text-align: center; vertical-align: middle;">double</td>
+		<td style="text-align: center; vertical-align: middle;">else</td>
+		<td style="text-align: center; vertical-align: middle;">extends</td>
+		<td style="text-align: center; vertical-align: middle;">final</td>
+		<td style="text-align: center; vertical-align: middle;">finally</td>
+		<td style="text-align: center; vertical-align: middle;">float</td>
 	</tr>
 	<tr>
-		<td>double</td>
-		<td>else</td>
-		<td>extends</td>
-		<td>final</td>
-		<td>finally</td>
-		<td>float</td>
+		<td style="text-align: center; vertical-align: middle;">for</td>
+		<td style="text-align: center; vertical-align: middle;">goto</td>
+		<td style="text-align: center; vertical-align: middle;">if</td>
+		<td style="text-align: center; vertical-align: middle;">implements</td>
+		<td style="text-align: center; vertical-align: middle;">import</td>
+		<td style="text-align: center; vertical-align: middle;">instanceof</td>
 	</tr>
 	<tr>
-		<td>for</td>
-		<td>goto</td>
-		<td>if</td>
-		<td>implements</td>
-		<td>import</td>
-		<td>instanceof</td>
+		<td style="text-align: center; vertical-align: middle;">int</td>
+		<td style="text-align: center; vertical-align: middle;">interface</td>
+		<td style="text-align: center; vertical-align: middle;">long</td>
+		<td style="text-align: center; vertical-align: middle;">native</td>
+		<td style="text-align: center; vertical-align: middle;">new</td>
+		<td style="text-align: center; vertical-align: middle;">package</td>
 	</tr>
 	<tr>
-		<td>int</td>
-		<td>interface</td>
-		<td>long</td>
-		<td>native</td>
-		<td>new</td>
-		<td>package</td>
+		<td style="text-align: center; vertical-align: middle;">private</td>
+		<td style="text-align: center; vertical-align: middle;">protected</td>
+		<td style="text-align: center; vertical-align: middle;">public</td>
+		<td style="text-align: center; vertical-align: middle;">return</td>
+		<td style="text-align: center; vertical-align: middle;">short</td>
+		<td style="text-align: center; vertical-align: middle;">static</td>
 	</tr>
 	<tr>
-		<td>private</td>
-		<td>protected</td>
-		<td>public</td>
-		<td>return</td>
-		<td>short</td>
-		<td>static</td>
+		<td style="text-align: center; vertical-align: middle;">strictfp</td>
+		<td style="text-align: center; vertical-align: middle;">super</td>
+		<td style="text-align: center; vertical-align: middle;">switch</td>
+		<td style="text-align: center; vertical-align: middle;">synchronized</td>
+		<td style="text-align: center; vertical-align: middle;">this</td>
+		<td style="text-align: center; vertical-align: middle;">throw</td>
 	</tr>
 	<tr>
-		<td>strictfp</td>
-		<td>super</td>
-		<td>switch</td>
-		<td>synchronized</td>
-		<td>this</td>
-		<td>throw</td>
+		<td style="text-align: center; vertical-align: middle;">throws</td>
+		<td style="text-align: center; vertical-align: middle;">transient</td>
+		<td style="text-align: center; vertical-align: middle;">try</td>
+		<td style="text-align: center; vertical-align: middle;">void</td>
+		<td style="text-align: center; vertical-align: middle;">volatile</td>
+		<td style="text-align: center; vertical-align: middle;">while</td>
 	</tr>
 	<tr>
-		<td>throws</td>
-		<td>transient</td>
-		<td>try</td>
-		<td>void</td>
-		<td>volatile</td>
-		<td>while</td>
-	</tr>
-	<tr>
-		<td>assert</td>
-		<td>enum</td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td style:"text-align: center; vertical-align: middle;">assert</td>
+		<td style:"text-align: center; vertical-align: middle;">enum</td>
+		<td style:"text-align: center; vertical-align: middle;"></td>
+		<td style:"text-align: center; vertical-align: middle;"></td>
+		<td style:"text-align: center; vertical-align: middle;"></td>
+		<td style:"text-align: center; vertical-align: middle;"></td>
 	</tr>
 </table>
