@@ -25,7 +25,7 @@ Ide dasar pada OOP adalah mengkombinasikan data dan fungsi untuk mengakses data 
 
 **Kelas** adalah kumpulan dari beberapa objek yang sama.
 
-![Contoh Kelas](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Img/01.png)
+![Contoh Kelas](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/01.png)
 
 Contoh **Objek :**
 
