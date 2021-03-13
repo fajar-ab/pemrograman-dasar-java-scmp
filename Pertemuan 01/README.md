@@ -134,7 +134,8 @@ Saat program sebelumnya dijalankan kembali, maka hasilnya tidak akan null lagi.
 
 ## Konstruktor ( Constructor )
 
-Konstruktor merupakan metode yang secara otomatis dipanggil ketika sebuah objek dipanggil. Konstruktor digunakan untuk melakukan instansiasi objek yang menggunakan kelas yang bersangkutan. Melakukan instansiasi adalah mengalokasikan sejumlah memori dari computer sesuatu kebutuhan struktur data yang digunakan. Keberadaan konstruktor dalam sebuah kelas java bersifat opsional, karena kelas abstrak misalnya tidak membutuhkan konstruktor karena tidak bisa diinstansiasi menjadi sebuah objek. Bahkan jika dideklarasikan sebagai kelas abstract. <br>
+Konstruktor merupakan metode yang secara otomatis dipanggil ketika sebuah objek dipanggil. Konstruktor digunakan untuk melakukan instansiasi objek yang menggunakan kelas yang bersangkutan. Melakukan instansiasi adalah mengalokasikan sejumlah memori dari computer sesuatu kebutuhan struktur data yang digunakan. Keberadaan konstruktor dalam sebuah kelas java bersifat opsional, karena kelas abstrak misalnya tidak membutuhkan konstruktor karena tidak bisa diinstansiasi menjadi sebuah objek. Bahkan jika dideklarasikan sebagai kelas abstract.
+
 Nama konstruktor haruslah sama dengan nama kelasnya. Contoh :
 ```java
 public  class Sepeda {
