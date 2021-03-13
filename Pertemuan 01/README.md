@@ -151,21 +151,21 @@ public  class Sepeda {
 	private int gigi;
 
 	public Sepeda() {
-	this.gigi = 0;
-	this.merk = “Federal”;
+		this.gigi = 0;
+		this.merk = “Federal”;
 	}
 
 	public Sepeda (int g, String m) {
-	this.gigi = g;
-	this.merk = m;
+		this.gigi = g;
+		this.merk = m;
 	}
 
 	public int posisi_gigi() {
-	return this.gigi;
+		return this.gigi;
 	}
 
 	public String merk_sepeda() {
-	return this.merk;
+		return this.merk;
 	}	
 } 
 ```
