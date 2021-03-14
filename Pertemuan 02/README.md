@@ -33,7 +33,7 @@ Dalam istilah pemrograman, objek merupakan instans (perwujudan) dari suatu kelas
 
 1. Buaka Text Editor / IDE.
 2. Buat Project baru dengan nama “MamaliaDarat”.
-3. lihat source code pada file [MamaliaDarat.java](https://www.petanikode.com/ "Pergi ke petanikode.com") berikut.
+3. Contoh dan lihat source code yang ada pada file [MamaliaDarat.java](https://www.petanikode.com/ "Pergi ke petanikode.com") berikut.
 4. Jalankan program, sehingga hasilnya menjadi seperti gambar berikut:
 
 
