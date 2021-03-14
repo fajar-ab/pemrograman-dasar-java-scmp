@@ -4,7 +4,7 @@
 
 **Parodi**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Sistem Informasi <br>
 **Jumlah Sks**&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;3SKS <br>
-**Lembaran**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Job Sheet 1 <br>
+**Lembaran**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Job Sheet 2 <br>
 **Matakuliah**&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Bahasa Pemograman I <br>
 **Topik_**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Pengenalan OOP
 
@@ -33,7 +33,7 @@ Dalam istilah pemrograman, objek merupakan instans (perwujudan) dari suatu kelas
 
 1. Buaka Text Editor / IDE.
 2. Buat Project baru dengan nama “MamaliaDarat”.
-3. lihat source code pada file [MamaliaDarat.java](https://www.petanikode.com/ "Pergi ke petanikode.com") berikut.
+3. lihat source code pada file [MamaliaDarat.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2002/Mamalia%20Darat/src/mamaliadarat/MamaliaDarat.java "Buka di Github") berikut.
 4. Jalankan program, sehingga hasilnya menjadi seperti gambar berikut:
 
 
