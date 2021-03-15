@@ -57,7 +57,7 @@ Dalam istilah pemrograman, objek merupakan instans (perwujudan) dari suatu kelas
 ## Evaluasi dan Penugasan
 
 1. Buatlah sebuah program yang dapat menampilkan ikon beberapa negara dengan berpanduan kepada program “**MamaliaDarat**”! <br>
-Contoh:
+Contoh: <br>
 | Negara | Ciri Khas |
 |:-------|:---------|
 | Indonesia | Candi Borobudur |
