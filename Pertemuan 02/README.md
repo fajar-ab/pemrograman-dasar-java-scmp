@@ -79,6 +79,7 @@ Contoh :
 		<td>Taj Mahal</td>
 	</tr>
 </table>
+
 2. Liahat Program [Tugas 1 (IkonNegara)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2002/Tugas%201%20(IkonNegara)/src/ikonnegara/IkonNegara.java) - GitHub. 
 3. Output <br>
 	![Output - Tugas 1 (IkonNegara)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2004.png)
