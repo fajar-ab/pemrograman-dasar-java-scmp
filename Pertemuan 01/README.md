@@ -132,12 +132,12 @@ Saat program sebelumnya dijalankan kembali, maka hasilnya tidak akan null lagi.
 
 ## Visibilitas Private dan Public
 
-- **Visibilitas** - Keterangan <br>
-- **Private** - Hanya dapat diakses oleh kelas itu sendiri <br>
-- **Public** - Dapat diakses oleh seluruh kelas <br>
-- **Protected** - Hanya dapat diakses oleh kelas itu sendiri dan kelas turunannya. <br>
-- **Tanpa Visibilitas** - Hanya dapat diakses oleh kelas – kelas yang berada pada satu paket. <br>
-- **Tanpa Spesifikasi** - Jika konstruktor dideklarasikan tanpa spesifikasi apakah public, private atau protected, kelas tersebut hanya akan dapat diinstansiasi menjadi objek oleh kelas dalam package yang sama. 
+- **Visibilitas** &ndash; Keterangan <br>
+- **Private** &ndash; Hanya dapat diakses oleh kelas itu sendiri <br>
+- **Public** &ndash; Dapat diakses oleh seluruh kelas <br>
+- **Protected** &ndash; Hanya dapat diakses oleh kelas itu sendiri dan kelas turunannya. <br>
+- **Tanpa Visibilitas** &ndash; Hanya dapat diakses oleh kelas – kelas yang berada pada satu paket. <br>
+- **Tanpa Spesifikasi** &ndash; Jika konstruktor dideklarasikan tanpa spesifikasi apakah public, private atau protected, kelas tersebut hanya akan dapat diinstansiasi menjadi objek oleh kelas dalam package yang sama. 
 
 ## Konstruktor ( Constructor )
 

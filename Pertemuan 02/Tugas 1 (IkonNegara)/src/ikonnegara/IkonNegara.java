@@ -6,9 +6,9 @@ public class IkonNegara {
     public static void main(String[] args) {
     	String ciriKhas = "";
 
-    	System.out.println("+----------------+----------------------------+");
+    	System.out.println(".---------------------------------------------.");
     	System.out.println("|  NEGARA        |   CIRI KHAS                |");
-    	System.out.println("+----------------+----------------------------+ ");
+    	System.out.println("|----------------|----------------------------| ");
 
     	Indonesia idn = new Indonesia();
     	ciriKhas = idn.iconIndonesia();
@@ -30,7 +30,7 @@ public class IkonNegara {
     	ciriKhas = ind.iconIndia();
     	System.out.println("| India          | " + ciriKhas);
 
-    	System.out.println("+----------------+----------------------------+");
+    	System.out.println("'---------------------------------------------'");
     }
 }
 

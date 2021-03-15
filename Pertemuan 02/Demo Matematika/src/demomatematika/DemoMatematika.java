@@ -47,7 +47,5 @@ public class DemoMatematika {
         System.out.println("Pengurangan " + a + " - " + b + " = " + hasilKurang);
         System.out.println("Perkalian   " + a + " * " + b + " = " + hasilKali);
         System.out.println("Pembagian   " + a + " / " + b + " = " + hasilBagi);
-
-
     }
 }

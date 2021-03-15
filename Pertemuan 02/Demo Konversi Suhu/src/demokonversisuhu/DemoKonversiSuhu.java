@@ -43,10 +43,10 @@ public class DemoKonversiSuhu {
 		// output
 		System.out.println("\nPROGRAM DEMO KONVERSI SUHU");
 		System.out.println("---------------------------");
-		System.out.println("Suhu Celcius           = " + suhuCelcius  + " Derajat");
-		System.out.println("Konversi ke Fahrenheit = " + hasilFahrenheit + " Derajat");
-		System.out.println("Suhu Fahrenheit        = " + suhuFahrenheit + " Derajat");
-		System.out.println("Konversi ke Celcius    = " + hasilCelcius + " Derajat");
+		System.out.printf("Suhu Celcius           = %.2f Derajat\n", suhuCelcius);
+		System.out.printf("Konversi ke Fahrenheit = %.2f Derajat\n", hasilFahrenheit);
+		System.out.printf("Suhu Fahrenheit        = %.2f Derajat\n", suhuFahrenheit);
+		System.out.printf("Konversi ke Celcius    = %.2f Derajat\n", hasilCelcius);
 
     }
 }
