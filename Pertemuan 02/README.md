@@ -35,7 +35,6 @@ Dalam istilah pemrograman, objek merupakan instans (perwujudan) dari suatu kelas
 2. Buat Project baru dengan nama “Mamalia Darat”.
 3. Sesuai dan lihat source code yang ada pada file [MamaliaDarat.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2002/Mamalia%20Darat/src/mamaliadarat/MamaliaDarat.java "Buka di Github") berikut.
 4. Jalankan program, sehingga hasilnya menjadi seperti ini:
-
 ![Output - Mamalia Darat](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2001.png)
 
 ### Demo Matematika
@@ -43,7 +42,6 @@ Dalam istilah pemrograman, objek merupakan instans (perwujudan) dari suatu kelas
 1. Buatlah project baru dengan nama “DemoMatematika”
 2. Sesuai source code yang ada pada file [DemoMatematika.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2002/Demo%20Matematika/src/demomatematika/DemoMatematika.java) berikut.
 3. Jalankan program, sehingga hasilnya menjadi seperti gambar berikut:
-
 ![Output - Demo Matematika](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2002.png)
 
 ### Demo Konversi Suhu
@@ -51,13 +49,13 @@ Dalam istilah pemrograman, objek merupakan instans (perwujudan) dari suatu kelas
 1. Buatlah project baru dengan nama “DemoKonversiSuhu”.
 2. Sesuai source code yang ada pada file [DemoKonversiSuhu.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2002/Demo%20Konversi%20Suhu/src/demokonversisuhu/DemoKonversiSuhu.java) berikut.
 3. Jalankan program tersebut, sehingga akan tampil keluaran seperti gambar berikut:
-
 ![Output - Mamalia Darat](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2003.png)
 
 ## Evaluasi dan Penugasan
 
 1. Buatlah sebuah program yang dapat menampilkan ikon beberapa negara dengan berpanduan kepada program “**MamaliaDarat**”! <br>
-Contoh: <br>
+Contoh:
+
 | Negara | Ciri Khas |
 |:-------|:---------|
 | Indonesia | Candi Borobudur |
