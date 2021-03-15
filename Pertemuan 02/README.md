@@ -36,7 +36,7 @@ Dalam istilah pemrograman, objek merupakan instans (perwujudan) dari suatu kelas
 3. Sesuai dan lihat source code yang ada pada file [MamaliaDarat.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2002/Mamalia%20Darat/src/mamaliadarat/MamaliaDarat.java "Buka di Github") berikut.
 4. Jalankan program, sehingga hasilnya menjadi seperti ini:
 
-![Output - Mamalia Darat]("https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2001.png")
+![Output - Mamalia Darat](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2001.png)
 
 ### Demo Matematika
 
@@ -44,7 +44,7 @@ Dalam istilah pemrograman, objek merupakan instans (perwujudan) dari suatu kelas
 2. Sesuai source code yang ada pada file [DemoMatematika.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2002/Demo%20Matematika/src/demomatematika/DemoMatematika.java) berikut.
 3. Jalankan program, sehingga hasilnya menjadi seperti gambar berikut:
 
-![Output - Demo Matematika]("https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2002.png")
+![Output - Demo Matematika](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2002.png)
 
 ### Demo Konversi Suhu
 
@@ -52,7 +52,7 @@ Dalam istilah pemrograman, objek merupakan instans (perwujudan) dari suatu kelas
 2. Sesuai source code yang ada pada file [DemoKonversiSuhu.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2002/Demo%20Konversi%20Suhu/src/demokonversisuhu/DemoKonversiSuhu.java) berikut.
 3. Jalankan program tersebut, sehingga akan tampil keluaran seperti gambar berikut:
 
-![Output - Mamalia Darat]("https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2003.png")
+![Output - Mamalia Darat](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2003.png)
 
 ## Evaluasi dan Penugasan
 
@@ -66,12 +66,12 @@ Contoh: <br>
 | China | Tembok Besar China |
 | India | Tajmahal |
 	- Liahat Program [Tugas 1 (IkonNegara)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2002/Tugas%201%20(IkonNegara)/src/ikonnegara/IkonNegara.java) - GitHub. 
-	- Output
+	- Output <br>
 	![Output - Tugas 1 (IkonNegara)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2004.png)
 
 2. Buatlah sebuah program konversi untuk mata uang, Rupiah ke Dollar dan Dollar ke Rupiah!
 	- Liahat Program [Tugas 2 (KonversiMatauang)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2002/Tugas%202%20(KonversiMatauang)/src/konversimatauang/KonversiMatauang.java) - GitHub. 
-	- Output
+	- Output <br>
 	![Output - Tugas 2 (KonversiMatauang)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2005.png)
 
 > 👉 Lihat kembali package yang di gunakan dalam beberapa program di atas.
