@@ -53,23 +53,42 @@ Dalam istilah pemrograman, objek merupakan instans (perwujudan) dari suatu kelas
 
 ## Evaluasi dan Penugasan
 
-1. Buatlah sebuah program yang dapat menampilkan ikon beberapa negara dengan berpanduan kepada program “**MamaliaDarat**”! <br>
-Contoh:
+###  Tugas 1 (IkonNegara)
 
-| Negara | Ciri Khas |
-|:-------|:---------|
-| Indonesia | Candi Borobudur |
-| Mekkah | Ka’bah |
-| Malaysia | Menara Kembar |
-| China | Tembok Besar China |
-| India | Tajmahal |
-	- Liahat Program [Tugas 1 (IkonNegara)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2002/Tugas%201%20(IkonNegara)/src/ikonnegara/IkonNegara.java) - GitHub. 
-	- Output <br>
+1. Buatlah sebuah program yang dapat menampilkan ikon beberapa negara dengan berpanduan kepada program “**MamaliaDara"**!
+Contoh :
+<table>
+	<tr>
+		<td><b>Negara</b></td>
+		<td><b>Ciri Khas</b></td>
+	</tr>
+	<tr>
+		<td>Indonesia</td>
+		<td>Candi Borobudur</td>
+	</tr>
+	<tr>
+		<td>Mekkah</td>
+		<td>Ka’bah</td>
+	</tr>
+	<tr>
+		<td>China</td>
+		<td>Tembok Besar China</td>
+	</tr>
+	<tr>
+		<td>India </td>
+		<td>Taj Mahal</td>
+	</tr>
+</table>
+2. Liahat Program [Tugas 1 (IkonNegara)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2002/Tugas%201%20(IkonNegara)/src/ikonnegara/IkonNegara.java) - GitHub. 
+3. Output <br>
 	![Output - Tugas 1 (IkonNegara)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2004.png)
 
-2. Buatlah sebuah program konversi untuk mata uang, Rupiah ke Dollar dan Dollar ke Rupiah!
-	- Liahat Program [Tugas 2 (KonversiMatauang)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2002/Tugas%202%20(KonversiMatauang)/src/konversimatauang/KonversiMatauang.java) - GitHub. 
-	- Output <br>
+### Tugas 2 (KonversiMatauang) 
+
+1. Buatlah sebuah program konversi untuk mata uang, Rupiah ke Dollar dan Dollar ke Rupiah!
+2. Liahat Program [Tugas 2 (KonversiMatauang)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2002/Tugas%202%20(KonversiMatauang)/src/konversimatauang/KonversiMatauang.java) - GitHub. 
+2. Output <br>
 	![Output - Tugas 2 (KonversiMatauang)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2005.png)
+
 
 > 👉 Lihat kembali package yang di gunakan dalam beberapa program di atas.
