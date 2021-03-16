@@ -19,7 +19,7 @@ public class DemoIfElse {
 
 		// seleksi nilai range
 		if((nilaiInput < 0) || (nilaiInput > 100)) {
-			System.out.println("Data yang di input Invalid !");
+			System.out.println("\nData yang di input Invalid !");
 		}else {
 
 			// menyeleksi kondisi

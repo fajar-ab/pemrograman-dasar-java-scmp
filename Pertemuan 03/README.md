@@ -43,24 +43,35 @@ Selain bentuk seleksi kondisi **if**, dalam Java juga dikenal cara penyeleksian 
 ### Contoh program penyeleksian kondisi if
 
 1. Buatlah sebuah project baru dengan nama **Demo If**, dengan class *DemoIf.java*.
-2. Sesuaikan sourcode pada file tersebut seperti yang ada pada file [DemoIf.java]() berikut.
+2. Sesuaikan sourcode pada file tersebut seperti yang ada pada file [DemoIf.java]( "Buka di Github") berikut.
 3. Jalankan program, maka hasilnya sebagai berikut:
 	- Jika angka yang dimasukkan kurang dari 60
+	![Output - Demo If]( "Output - Demo If #1")
 	- Jika nilai yang dimasukkan sama atau lebih besar dari 60
+	![Output - Demo If]( "Output - Demo If #2")
 
 ### Contoh program penyeleksian kondisi if..else atau if..else bersarang
 
 1. Buatlah sebuah project baru dengan nama **Demo If Else**, dengan *class DemoIfElse.java*.
-2. Sesuaikan sourcode pada file tersebut seperti yang ada pada file [DemoIfElse.java]() berikut.
+2. Sesuaikan sourcode pada file tersebut seperti yang ada pada file [DemoIfElse.java]( "Buka di Github") berikut.
 3. Jalankan program, maka:
 	- Jika imput yang dimasukkan kuran dari 0, atau lebih dari 100, maka akan tampil:
+	![Output - Demo If Else]( "Output - Demo If Else #1")
+	![Output - Demo If Else]( "Output - Demo If Else #2")
 	- Jika angka yang dimasukkan diantara 0 dan 100:
+	![Output - Demo If Else]( "Output - Demo If Else #3")
+	![Output - Demo If Else]( "Output - Demo If Else #4")
+	![Output - Demo If Else]( "Output - Demo If Else #5")
+	![Output - Demo If Else]( "Output - Demo If Else #6")
 
 ### Contoh program penyeleksian kondisi switch:
 
 1. Buatlah sebuah project baru dengan nama **Demo Switch**, dengan class *DemoSwitch.java*.
-2. Sesuaikan sourcode pada file tersebut seperti yang ada pada file [DemoIf.java]() berikut.
+2. Sesuaikan sourcode pada file tersebut seperti yang ada pada file [DemoIf.java]( "Buka di Github") berikut.
 3. Jalankan program tersebut, maka kemungkinan hasilnya adalah:
+![Output - Demo Switch]( "Output - Demo Swich #1")
+![Output - Demo Switch]( "Output - Demo Swich #2")
+![Output - Demo Switch]( "Output - Demo Swich #3")
 
 ## Evaluasi dan Penugasan
 
@@ -86,3 +97,12 @@ Contoh:
 </table>
 
 > Buatkan untuk 8 kemungkinan pilihan warna!
+
+- Program **Tugas - Pertemuan 3** bisa di lihat  [disini]( "Buka di Github")
+- Class [Main.java]( "Buka di Github")
+- Outputnya :
+![Output - Tusgas]( "Output - Tugas #1")
+![Output - Tusgas]( "Output - Tugas #2")
+
+> 👉 Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa program di atas.
+

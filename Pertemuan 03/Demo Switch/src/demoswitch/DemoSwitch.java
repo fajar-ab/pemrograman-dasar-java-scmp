@@ -62,7 +62,7 @@ public class DemoSwitch {
 					       "\n  I Fell FREE..!!! :D");
 				break;
 			default:
-				System.out.println("Pilihan Anda Salah..!!"+
+				System.out.println("\nPilihan Anda Salah..!!"+
 					"Inggat Dalam Satu Minggu Hanya Terdapat 7 Hari");
     	}
     }
