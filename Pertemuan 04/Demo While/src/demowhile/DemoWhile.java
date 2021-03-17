@@ -19,7 +19,7 @@ public class DemoWhile {
     	// perulangan
     	while(counter <= 5) {
     		System.out.println("Mencetak counter ke-" + counter);
-    		counter++;
+    		++counter;
     	}
     }
 }

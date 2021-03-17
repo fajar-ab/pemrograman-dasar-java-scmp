@@ -9,8 +9,8 @@
 **Topik_**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;Perulangan
 ### Tujuaan
 
-1. Dengan mengikuti perkuliahan ini mahasiswa diharapkan mampu memahami konsep penyeleksian di OOP.
-2. Dengan mengikuti perkuliahan ini mahasiswa diharapkan untuk mampu membuat program yang penggunakan penyeleksian di OOP.
+1. Dengan mengikuti perkuliahan ini mahasiswa diharapkan mampu memahami konsep perulangan di OOP.
+2. Dengan mengikuti perkuliahan ini mahasiswa diharapkan untuk mampu membuat program yang penggunakan perulangan di OOP.
 
 ### Tools
 
@@ -32,7 +32,11 @@
 - Bentuk **while** adalah yang paling sering digunakan. **for** akan mengulang suatu statement atau blok statement sejumlah yang dikehendaki, yakni bila kondisi akhir telah tercapai.
 - Bentuk umum:
 ```java
-CloneNotSupportedException
+for(kondisi awal; persyaratan/kondisi akhir; increment - decrement) {
+
+	Block Statement...;
+
+}
 ```
 
 #### 2. Perulangan **While**
@@ -41,13 +45,23 @@ CloneNotSupportedException
 - Sama seperti **for**, kondisi adalah ekspresi boolean atau fungsi yang dapat menghasilkan nilai boolean benar atau salah.
 - Bentuk umum:
 ```java
-CloneNotSupportedException
+while(kondisi) {
+
+	Block Statement...;
+}
 ```
 
 #### 3. Perulangan **Do..While**
 
 - Pada bentuk ini, keyword while diletakkan pada bagian akhir dari perulangan (setelah blok statement)
 - Bentuk umum:
+```java
+do {
+
+	Block Statement...;
+
+} while(kondisi);
+```
 
 ### Keyword **break** dan **continue**
 
@@ -84,7 +98,6 @@ Keyword ini hanya menghentikan perulangan yang sedang berlangsung. Kendali progr
 		......
 		--counter;
 	}
-
 ```
 5. Amati hasilnya <br>
 ![Output - Demo While]( "Output - Demo While #2")
