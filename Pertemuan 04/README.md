@@ -135,7 +135,7 @@ Keyword ini hanya menghentikan perulangan yang sedang berlangsung. Kendali progr
 > program menampikan bilangan genap dari 1-10 menggunakan While loop.
 
 1. Buatlah sebuah project baru dengan nama **Project (_BilanganGenap_)**
-2. Sesuaikan sourcode nya seperti yang ada pada file [BilanganGenap.java]( "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [BilanganGenap.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2004/Project%20(BilanganGenap)/src/bilangangenap/BilanganGenap.java "Buka Github") berikut.
 3. Jalankan program, maka akan muncul tampilan seperti berikut ini: <br>
 ![Output - Demo While](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P04%20-%2008.png "Output - Project BilanganGenap")
 
