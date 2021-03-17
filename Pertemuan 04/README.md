@@ -76,16 +76,16 @@ Keyword ini hanya menghentikan perulangan yang sedang berlangsung. Kendali progr
 ### Contoh program perulangan For
 
 1. Buatlah sebuah project baru dengan nama **Demo For** dengan class *DemoFor.java*.
-2. Sesuaikan sourcode nya seperti yang ada pada file [DemoFor.java]( "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [DemoFor.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2004/Demo%20For/src/demofor/DemoFor.java "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut: <br>
-![Output - Demo For]( "Output - Demo For")
+![Output - Demo For](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P04%20-%2001.png "Output - Demo For")
 
 ### Contoh program perulangan While
 
 1. Buatlah sebuah project baru dengan nama **Demo While** dengan class *DemoWhile.java*
-2. Sesuaikan sourcode nya seperti yang ada pada file [DemoWhile.java]( "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [DemoWhile.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2004/Demo%20While/src/demowhile/DemoWhile.java "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut: <br>
-![Output - Demo While]( "Output - Demo While #1")
+![Output - Demo While](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P04%20-%2002.png "Output - Demo While #1")
 4. Ubah pernyataan: <br>
 	- **counter = 0** menjadi **counter = 5**, 
 	- pernyataan **while(counter <= 5)** dengan **while(counter >= 1)**, 
@@ -100,35 +100,35 @@ Keyword ini hanya menghentikan perulangan yang sedang berlangsung. Kendali progr
 	}
 ```
 5. Amati hasilnya <br>
-![Output - Demo While]( "Output - Demo While #2")
+![Output - Demo While](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P04%20-%2003.png "Output - Demo While #2")
 
 ### Contoh program perulangan Do..While
 
 1. Buatlah sebuah project baru dengan nama Demo Do While
-2. Sesuaikan sourcode nya seperti yang ada pada file [DemoWhile.java]( "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [DemoWhile.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2004/Demo%20Do_While/src/demodowhile/DemoDoWhile.java "Buka Github") berikut.
 3. Jalankan program, maka akan muncul tampilan seperti berikut ini: <br>
-![Output - Demo While]( "Output - Demo While #1")
+![Output - Demo While](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P04%20-%2004.png "Output - Demo While #1")
 
 ### Contoh program keyword **Break**
 
 1. Buatlah sebuah project baru dengan nama **Demo Break** dengan class *DemoBreak.java*
-2. Sesuaikan sourcode nya seperti yang ada pada file [DemoBreak.java]( "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [DemoBreak.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2004/Demo%20Break/src/demobreak/DemoBreak.java "Buka Github") berikut.
 3. Jalankan program, maka akan muncul tampilan seperti berikut ini: <br>
-![Output - Demo While]( "Output - Demo While")
+![Output - Demo While](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P04%20-%2005.png "Output - Demo While")
 
 ### Contoh program keyword Continue
 
 1. Buatlah sebuah project baru dengan nama **Demo Continue** dengan class *DemoContinue.java*
-2. Sesuaikan sourcode nya seperti yang ada pada file [DemoBreak.java]( "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [DemoBreak.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2004/Demo%20Continue/src/democontinue/DemoContinue.java "Buka Github") berikut.
 3. Jalankan program, maka akan muncul tampilan seperti berikut ini: <br>
-![Output - Demo While]( "Output - Demo Continue")
+![Output - Demo While](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P04%20-%2006.png "Output - Demo Continue")
 
 ### Contoh program perulangan lainnya - Bilangan Prima
 
 1. Buatlah sebuah project baru dengan nama **Project (_BilanganPrima_)**
-2. Sesuaikan sourcode nya seperti yang ada pada file [BilanganPrima.java]( "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [BilanganPrima.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2004/Project%20(BilanganPrima)/src/bilanganprima/BilanganPrima.java "Buka Github") berikut.
 3. Jalankan program, maka akan muncul tampilan seperti berikut ini: <br>
-![Output - Demo While]( "Output - Project BilanganPrima")
+![Output - Demo While](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P04%20-%2007.png "Output - Project BilanganPrima")
 
 ### Contoh program perulangan lainnya - Bilangan Genap
 
@@ -137,26 +137,26 @@ Keyword ini hanya menghentikan perulangan yang sedang berlangsung. Kendali progr
 1. Buatlah sebuah project baru dengan nama **Project (_BilanganGenap_)**
 2. Sesuaikan sourcode nya seperti yang ada pada file [BilanganGenap.java]( "Buka Github") berikut.
 3. Jalankan program, maka akan muncul tampilan seperti berikut ini: <br>
-![Output - Demo While]( "Output - Project BilanganGenap")
+![Output - Demo While](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P04%20-%2008.png "Output - Project BilanganGenap")
 
 ### Contoh program perulangan lainnya - Menjumlahkan bilangan bulat
 
 1. Buatlah sebuah project baru dengan nama **Jumlah**
-2. Sesuaikan sourcode nya seperti yang ada pada file [Jumlah.java]( "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [Jumlah.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2004/Project%20(jumlah)/src/jumlah/Jumlah.java "Buka Github") berikut.
 3. Jalankan program, maka akan muncul tampilan seperti berikut ini: <br>
-![Output - Demo While]( "Output - Project Jumlah")
+![Output - Demo While](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P04%20-%2009.png "Output - Project Jumlah")
 
 ## Evaluasi dan Penugasan
 
 - **Buatlah sebuah program untuk menampilkan bilangan ganjil dari 100-186!**
-	- Liahat Program [Tugas 1 - Main.java]( "Buka Github").
-	- Compail dan jalankan proramnya.
+	- Lihat Program [Tugas 1 - Main.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2004/Tugas%201/src/tugas1/Main.java "Buka Github").
+	- Compaile dan jalankan proramnya.
 	- Maka. outputya akan seperti yang dibawah. <br>
-	![Output - Tugas 1]( "Output - Tugas 1")
+	![Output - Tugas 1](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P04%20-%2010.png "Output - Tugas 1")
 - **Buatlah program rata-rata bilangan positif, dimana banyaknya data ditentukan dari data yang dimasukkan dengan keyboard, hasil output yang diinginkan sebagai berikut:**
-![Output - Tugas 2]( "Output - Tugas 2")
-	- Liahat Program [Tugas 2 - Main.java]( "Buka Github").
-	- Compail dan jalankan proramnya.
-	- Maka. outputya akan sepertoi diata. <br>
+![Output - Tugas 2](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P04%20-%2011.png "Output - Tugas 2")
+	- Lihat Program [Tugas 2 - Main.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2004/Tugas%202/src/tugas2/Main.java "Buka Github").
+	- Compaile dan jalankan proramnya.
+	- Maka. outputya akan seperti diatas. <br>
 
 
