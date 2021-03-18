@@ -3,7 +3,7 @@
 	deskripsi : Menampilkan penjumlahan dan perkalian dua matriks dalam 1 file java
 */
 
-package com.perkalian.matriks;
+package com.array.matriks;
 import java.util.Scanner;
 
 public class Matriks {
