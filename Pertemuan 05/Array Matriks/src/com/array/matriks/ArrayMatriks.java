@@ -6,7 +6,7 @@
 package com.array.matriks;
 import java.util.Scanner;
 
-public class Matriks {
+public class ArrayMatriks {
     
     public static void main(String[] args) {
     	Scanner userInput = new Scanner(System.in);

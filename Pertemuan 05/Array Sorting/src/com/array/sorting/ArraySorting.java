@@ -1,8 +1,8 @@
 // Program Array Sorting - Pertemuan 5
 
-package com.program;
+package com.array.sorting;
 
-public class Main {
+public class ArraySorting {
     
     public static void main(String[] args) {
     	int[] deretBilangan = new int[10];
