@@ -248,9 +248,30 @@ Output yang dihasilkan dari program diatas, seperti dibawah ini : <br>
 
 ### Contoh program Matriks
 
-1. Buatlah sebuah project baru dengan nama **Matriks**.
-2. Sesuaikan sourcode nya seperti yang ada pada file [Matriks.java]( "Buka Github") berikut.
+1. Buatlah sebuah project baru dengan nama **Array Matriks**, dengan class *ArrayMatriks.java*.
+2. Sesuaikan sourcode nya seperti yang ada pada file [ArrayMatriks.java]( "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut:
 ![]()
 
-### Contoh program sorting(pengurutan) array
+### Contoh program Array Sorting
+
+1. Buatlah sebuah project baru dengan nama **Array Sorting**, dengan class *ArraySorting.java*.
+2. Sesuaikan sourcode nya seperti yang ada pada file [ArraySorting.java]( "Buka Github") berikut.
+3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut:
+![]()
+
+### Contoh program Array Searching
+
+1. Buatlah sebuah project baru dengan nama **Array Searching**, dengan class *ArraySearching.java*.
+2. Sesuaikan sourcode nya seperti yang ada pada file [ArraySearching.java]( "Buka Github") berikut.
+3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut:
+![]()
+
+### Contoh program Pencarian Biner
+
+1. Buatlah sebuah project baru dengan nama **Pencarian Biner**, dengan class *PencarianBiner.java*.
+2. Sesuaikan sourcode nya seperti yang ada pada file [PencarianBiner.java]( "Buka Github") berikut.
+3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut:
+![]()
+
+

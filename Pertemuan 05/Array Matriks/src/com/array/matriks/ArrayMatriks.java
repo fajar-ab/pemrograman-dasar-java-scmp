@@ -56,7 +56,7 @@ public class ArrayMatriks {
 
         // mengkalikan dua matriks dan menyetaknya di monitor
         hasil = kaliMatriks(matriks1, matriks2);
-        System.out.println("\n Penjumlahan Matriks");
+        System.out.println("\n Perkalian Matriks");
         cetakHasil(matriks1, matriks2, hasil, 'x');
     }
 
