@@ -80,26 +80,26 @@ import java.util.*;
 
 class Main {
 
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 
-		int nil_akhir;             // deklarasi variabel array
-		nil_akhir = new int[6];    // membuat objek array
-		Scanner userInput = new Scanner(System.in);
+        int[] nil_akhir;            // deklarasi variabel array
+        nil_akhir = new int[6];     // membuat objek array
+        Scanner userInput = new Scanner(System.in);
 
-		for (int i = 0; i < 6; i++) {
+        for (int i = 0; i < 6; i++) {
 
-			System.out.print("Masukkan array ke "+ i +" = ");
-			nil_akhir[i] = userInput.nextInt();
-		}
+            System.out.print("Masukkan array ke "+ i +" = ");
+            nil_akhir[i] = userInput.nextInt();
+        }
 
-		System.out.println("\n\nData Yang Diinput Ke Elemen Array");
+        System.out.println("\nData Yang Diinput Ke Elemen Array\n");
 
-		for (int i = 0; i < 6; i++) {
+        for (int i = 0; i < 6; i++) {
 
-			System.out.print("Nilai Akhir Index " + i);
-			System.out.println("= " + nil_akhir[i]);
-		}
-	}
+            System.out.print("Nilai Akhir Index " + i);
+            System.out.println(" = " + nil_akhir[i]);
+        }
+    }
 }
 ```
 Output yang dihasilkan dari program diatas, seperti dibawah ini : <br>
@@ -118,19 +118,19 @@ Sebagai contoh program memasukan data kedalam elemen array dengan cara inisialis
 ```java
 class Main {
 
-	public static void main(String[] args) {	
-		
-		double[] nil_akhir = {56.5, 66.7, 87.6, 98,5, 78.9, 85.4};
-			
-		System.out.println("\nData Yang Diinput ke Elemen Array \n");
+    public static void main(String[] args) {    
 
-		//menampilkan data dari elemen array
-		for(int i = 0; i < 6; i++){
+        double[] nil_akhir = {56.5, 66.7, 87.6, 98,5, 78.9, 85.4};
 
-			System.out.print("Nilai Akhir Index " + i);
-			System.out.println(" = " + nil_akhir[i]);
-		}	
-	}	
+        System.out.println("\nData Yang Diinput ke Elemen Array \n");
+
+        //menampilkan data dari elemen array
+        for(int i = 0; i < 6; i++){
+
+            System.out.print("Nilai Akhir Index " + i);
+            System.out.println(" = " + nil_akhir[i]);
+        }    
+    }    
 }
 ```
 Output yang dihasilkan dari program diatas, seperti dibawah ini : <br>
@@ -186,31 +186,31 @@ import java.util.*;
 
 class Main {
 
-	public static void main(String[] args) {
-		
-		int[][] data_jual = new int[3][3];
-		Scanner userInput = new Scanner(System.in);
+    public static void main(String[] args) {
 
-		for (int i = 0; i < 3; i+) {
-			for (int j = 0; j < 3; j++) {
+        int[][] data_jual = new int[3][3];
+        Scanner userInput = new Scanner(System.in);
 
-				System.out.print("Masukkan Data Jual ke ["+ i +"] ["+ j +"] = ");
-				data_jual[i][j] = userInput.nextInt();
-			}
-			System.out.println();
-		}
+        for (int i = 0; i < 3; i++) {
+            for (int j = 0; j < 3; j++) {
 
-		System.out.println("\n\nData Yang Diinput ke Elemen Array");
+                System.out.print("Masukkan Data Jual ke ["+ i +"] ["+ j +"] = ");
+                data_jual[i][j] = userInput.nextInt();
+            }
+            System.out.println();
+        }
 
-		for (int i = 0; i < 3; i+) {
-			for (int j = 0; j < 3; j++) {
+        System.out.println("\nData Yang Diinput ke Elemen Array\n");
 
-				System.out.print("Nilai Data Jual ["+ i +"] ["+ j +"] = ");
-				System.out.println(" = " + data_jual[i][j]);
-			}
-			System.out.println();
-		}
-	}
+        for (int i = 0; i < 3; i++) {
+            for (int j = 0; j < 3; j++) {
+
+                System.out.print("Nilai Data Jual ["+ i +"] ["+ j +"]");
+                System.out.println(" = " + data_jual[i][j]);
+            }
+            System.out.println();
+        }
+    }
 }
 ```
 Output yang dihasilkan dari program diatas, seperti dibawah ini : <br>
@@ -222,24 +222,24 @@ Suatu array, dapat diakses dengan menggunakan subscript atau indexnya. Bentuk um
 
 Sebagai contoh program memasukan data kedalam elemen array dengan cara inisialisasi objek array dan mengambil data dari dalam elemen array, secara selengkapnya seperti dibawah ini:
 ```java
-class Lat604 {
+class Main {
 
-	public static void main(String[] args) {
+    public static void main(String[] args) {
 
-		int[][] nil_akhir = {{150, 159, 230}, {100,125,150}, {210,125,156}};
-				
-		System.out.println("Data Yang Diinput ke Elemen Array \n");
+        int[][] nil_akhir = {{150, 159, 230}, {100,125,150}, {210,125,156}};
 
-		//menampilkan data dari elemen array
-		for(int i = 0; i < 3; i++) {		
-			for(int j = 0; j < 3; j++) {
+        System.out.println("Data Yang Diinput ke Elemen Array\n");
 
-				System.out.print("Nilai Akhir Index ["+i+"]["+j+"] = ");
-				System.out.println(" = " + nil_akhir[i][j]);
-			}	
-		}		
-	}		
-}		
+        // //menampilkan data dari elemen array
+        for(int i = 0; i < 3; i++) {        
+            for(int j = 0; j < 3; j++) {
+
+                System.out.print("Nilai Akhir Index ["+i+"] ["+j+"]");
+                System.out.println(" = " + nil_akhir[i][j]);
+            }    
+        }        
+    }        
+}   	
 ```
 Output yang dihasilkan dari program diatas, seperti dibawah ini : <br>
 ![Output]()
