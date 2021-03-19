@@ -10,10 +10,10 @@ public class Main {
     	ArrayList<Integer> angka = new ArrayList<Integer>();
 
     	System.out.println("Masukkan dafrar nilai matematika Mahasiswa !");
-    	System.out.println("Untuk berhenti masukkan data, ketikkan 0 (nol)");
+    	System.out.println("Untuk berhenti masukkan data, ketikkan 0 (nol)\n");
 
     	do {
-    		System.out.println("Mahasiswa ke-"+(i+1)+" : ");
+    		System.out.print("Mahasiswa ke-"+(i+1)+" : ");
     		input = userInput.nextInt();
 
     		if(input != 0) {
@@ -35,7 +35,7 @@ public class Main {
     		}
     	}
 
-    	System.out.println("nilai matematika tertinggi adalah " + maksimal);
+    	System.out.println("\nNilai matematika tertinggi adalah " + maksimal);
     	System.out.println("Nilai matematika terendah adalah  " + minimal);
     }
 }
