@@ -1,6 +1,6 @@
 package com.panjang.string;
 
-public class Main {
+public class PanjangString {
     
     public static void main(String[] args) {
     	String A = "Pemograman Berbasis Objek";
