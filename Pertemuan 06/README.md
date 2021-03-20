@@ -31,7 +31,7 @@
   - Pencarian **Linear** _(Linear Search)_
   	+ Algoritma ini akan mencari elemen berdasarkan suatu kunci _(key)_, yang berupa bilangan atau karakter yang diinginkan
   - Pencarian **Biner** _(Binary Search)_
-    + Merupakan perbaikan dari konsep sebelumnya _(pencarian linier)_ karena lebih efisien. Dengan algoritma ini, kita tidak perlu memeriksa semua elemen sehingga menghemat waktu pencarian.
+  	+ Merupakan perbaikan dari konsep sebelumnya _(pencarian linier)_ karena lebih efisien. Dengan algoritma ini, kita tidak perlu memeriksa semua elemen sehingga menghemat waktu pencarian.
 
 ## Langkah Kerja
 
@@ -39,9 +39,9 @@
 
 Program berikut ini menunjukkan aplikasi variabel penjualan yang bertipe array dimana setiap elemen bertipe integer
 1. Buatlah sebuah project baru dengan nama **Contoh 1**, dengan class *Contoh1.java*.
-2. Sesuaikan sourcode nya seperti yang ada pada file [Contoh1.java]( "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [Contoh1.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2006/Contoh%201/src/com/contoh1/Contoh1.java "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut: <br>
-![Output - Contoh 1]( "Output - Contoh 1")
+![Output - Contoh 1](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P06%20-%2001.png "Output - Contoh 1")
 
 ### Contoh 2
 
@@ -118,34 +118,34 @@ Selanjutnya akan dicari nilai akhir untuk setiap mahasiswa yang merupakan nilai 
 
 Langkah-langkah :<br>
 1. Buatlah sebuah project baru dengan nama **Contoh 2**, dengan class *Contoh2.java*.
-2. Sesuaikan sourcode nya seperti yang ada pada file [Contoh2.java]( "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [Contoh2.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2006/Contoh%202/src/com/contoh2/Contoh2.java "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut: <br>
-![Output - Contoh 2]( "Output - Contoh 2")
+![Output - Contoh 2](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P06%20-%2002.png "Output - Contoh 2")
 
 ### Contoh 3
 
 Langkah-langkah :<br>
 1. Buatlah sebuah project baru dengan nama **Contoh 3**, dengan class *Contoh3.java*.
-2. Sesuaikan sourcode nya seperti yang ada pada file [Contoh3.java]( "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [Contoh3.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2006/Contoh%203/src/com/contoh3/Contoh3.java "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut: <br>
-![Output - Contoh 3]( "Output - Contoh 3")
+![Output - Contoh 3](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P06%20-%2003.png "Output - Contoh 3")
 
 ### Contoh 4
 
 Langkah-langkah :<br>
 1. Buatlah sebuah project baru dengan nama **Contoh 4**, dengan class *Contoh4.java*.
-2. Sesuaikan sourcode nya seperti yang ada pada file [Contoh4.java]( "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [Contoh4.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2006/Contoh%204/src/com/contoh4/Contoh4.java "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut: <br>
-![Output - Contoh 4]( "Output - Contoh 4")
+![Output - Contoh 4](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P06%20-%2004.png "Output - Contoh 4")
 
 ### Contoh 5
 
 Langkah-langkah :<br>
 1. Buatlah sebuah project baru dengan nama **Contoh 5**, dengan class *Contoh5.java*.
-2. Sesuaikan sourcode nya seperti yang ada pada file [Contoh5.java]( "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [Contoh5.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2006/Contoh%205/src/com/contoh5/Contoh5.java "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut: <br>
-![Output - Contoh 5]( "Output - Contoh 5 #1")
-![Output - Contoh 5]( "Output - Contoh 5 #2")
+![Output - Contoh 5](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P06%20-%2005.png "Output - Contoh 5 #1")
+![Output - Contoh 5](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P06%20-%2006.png "Output - Contoh 5 #2")
 
 ### Contoh 6
 
@@ -153,14 +153,14 @@ Langkah-langkah :<br>
 1. Buatlah sebuah project baru dengan nama **Contoh 6**, dengan class *Contoh6.java*.
 2. Sesuaikan sourcode nya seperti yang ada pada file [Contoh6.java]( "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut: <br>
-![Output - Contoh 6]( "Output - Contoh 6")
+![Output - Contoh 6](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P06%20-%2007.png "Output - Contoh 6")
 
 ## Evaluasi dan Penugasan
 
 Buatlah sebuah program untuk mencari nilai matematika mahasiswa (yang terdiri dari 10 mahasiswa) tertinggi dan terendah dari 10 data nilai yang diinputkan ketika program dijalankan, contoh tampilan hasinya adalah seperti yang terlihat pada gambar berikut: <br>
-![Output - Tugas]( "Output - Tugas")
+![Output - Tugas](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P06%20-%2008.png "Output - Tugas")
 
 Langkah-langkah :<br>
 1. Buatlah sebuah project baru dengan nama **Tugas**.
-2. Sesuaikan sourcode nya seperti yang ada pada file [Main.java]( "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [Main.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2006/Contoh%206/src/com/contoh6/Contoh6.java "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar diatas.
