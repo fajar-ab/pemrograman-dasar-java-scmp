@@ -62,7 +62,7 @@ Ikuti langkah berikut untuk membuat contoh programnya:
 1. Buatlah sebuah project baru dengan nama **Posisi Karakter 1**, dengan class *PosisiKarakter.java*.
 2. Sesuaikan sourcode nya seperti yang ada pada file [PosisiKarakter.java]( "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut: <br>
-![Output - PosisiKarakter]( "Output - Posisis Karakter")
+![Output - Posisi Karakter]( "Output - Posisis Karakter")
 
 ### Mendapatkan Posisi Karakter Pada String
 
@@ -74,7 +74,18 @@ Ikuti langkah berikut untuk membuat contoh programnya:
 1. Buatlah sebuah project baru dengan nama **Posisi Karakter 2**, dengan class *PosisiKarakter.java*.
 2. Sesuaikan sourcode nya seperti yang ada pada file [PosisiKarakter.java]( "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut: <br>
-![Output - PosisiKarakter]( "Output - Posisis Karakter")
+![Output - Posisi Karakter]( "Output - Posisis Karakter")
+
+### Melakukan Konversi Huruf Besar (Kapital) Ke Huruf Kecil Dan Sebaliknya
+
+Untuk melakukan konversi huruf besar ke huruf kecil dapat digunakan method `toLowerCase()`. <br>
+Untuk melakukan konversi huruf kecil ke huruf besar dapat digunakan method `toUpperCase()`.
+
+Ikuti langkah berikut untuk membuat contoh programnya:
+1. Buatlah sebuah project baru dengan nama **Konversi Karakter 2**, dengan class *KonversiKarakter.java*.
+2. Sesuaikan sourcode nya seperti yang ada pada file [KonversiKarakter.java]( "Buka Github") berikut.
+3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut: <br>
+![Output - Konversi Karakter]( "Output - PKonversi Karakter")
 
 ### Melakukan Penyambungan Antar 2 atau Lebih String
 
