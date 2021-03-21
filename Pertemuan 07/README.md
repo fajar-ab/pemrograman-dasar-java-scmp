@@ -96,7 +96,7 @@ Ikuti langkah berikut untuk membuat contoh programnya:
 3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut: <br>
 ![Output - Penggabungan String]( "Output - Penggabungan String")
 
-## Evaluasi dan Penugasan
+## Evaluasi dan Penugasan 
 
 Buatlah sebuah program menggunakan string untuk menyelesaikan permasalahan berikut:
 + Terdapat daftar nama barang di sebuah toko komputer (cukup 10 jenis barang) yang belum tersusun urutannya.
