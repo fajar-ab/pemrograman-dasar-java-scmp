@@ -11,7 +11,7 @@
 ### Tujuan
 
 1. Dengan mengikuti perkuliahan ini mahasiswa diharapkan mampu memahami konsep String di Java.
-2. 2.Dengan mengikuti perkuliahan ini mahasiswa diharapkan untuk mampu membuat program yang penggunakan String di Java OOP.
+2. Dengan mengikuti perkuliahan ini mahasiswa diharapkan untuk mampu membuat program yang penggunakan String di Java OOP.
 
 ### Tools
 
@@ -36,7 +36,7 @@ Ikuti langkah berikut untuk membuat contoh programnya:
 3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut: <br>
 ![Output - Panjang String](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P07%20-%2001.png "Output - Panjang String")
 
-### Mengetahui Kesamaan Antara Dua String:
+### Mengetahui Kesamaan Antara Dua String
 
 Untuk mengetahui kesamaan antara dua string dapat digunakan operator **`==`** atau method `equals(String)`. <br>
 Ikuti langkah berikut untuk membuat contoh programnya:
