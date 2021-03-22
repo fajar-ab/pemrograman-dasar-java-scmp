@@ -150,13 +150,13 @@ Keyword ini hanya menghentikan perulangan yang sedang berlangsung. Kendali progr
 
 - **Buatlah sebuah program untuk menampilkan bilangan ganjil dari 100-186!**
 	- Lihat Program [Tugas 1 - Main.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2004/Tugas%201/src/tugas1/Main.java "Buka Github").
-	- Compaile dan jalankan proramnya.
+	- Compile dan jalankan proramnya.
 	- Maka. outputnya akan seperti yang dibawah. <br>
 	![Output - Tugas 1](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P04%20-%2010.png "Output - Tugas 1")
 - **Buatlah program rata-rata bilangan positif, dimana banyaknya data ditentukan dari data yang dimasukkan dengan keyboard, hasil output yang diinginkan sebagai berikut:**
 ![Output - Tugas 2](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P04%20-%2011.png "Output - Tugas 2")
 	- Lihat Program [Tugas 2 - Main.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2004/Tugas%202/src/tugas2/Main.java "Buka Github").
-	- Compaile dan jalankan proramnya.
+	- Compile dan jalankan proramnya.
 	- Maka. outputnya akan seperti diatas. <br>
 
 > 👉 Lihat kembali penamaan class dan penggunaan package yang di pakai dalam beberapa program di atas.
