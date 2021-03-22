@@ -108,3 +108,5 @@ Langkah-langkah :<br>
 2. Sesuaikan sourcode nya seperti yang ada pada file [Main.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2007/Tugas%20(mengurutkan%20nama%20barang)/src/com/tugas/Main.java "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar dibawah: <br>
 ![Output - Tugas](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P07%20-%2008.png "Output - Tugas")
+
+> 👉 Lihat kembali penamaan class dan penggunaan package yang di pakai dalam beberapa program di atas.
