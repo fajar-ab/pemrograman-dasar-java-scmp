@@ -36,7 +36,7 @@ Berikut ini kita akan membuat program yang fungsinya untuk menampilkan panjang d
 
 Untuk membuat program tersebut, ikuti langkah berikut ini:
 1. Buat Project baru dengan nama **Percobaan 1**.
-2. Buat class file dengan nama [_MainPersegiPanjang.java_]( "Buka - Github").
+2. Buat class file dengan nama [MainPersegiPanjang.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2008/Percobaan%201/src/main/persegipanjang/MainPersegiPanjang.java "Buka - Github").
 3. Sesuaikan listing programnya seperti yang terlihat dibawah.
 ```java
 	package main.persegipanjang;
@@ -57,7 +57,7 @@ Untuk membuat program tersebut, ikuti langkah berikut ini:
 	}
 ```
 4. Jika terdeteksi tanda kesalahan pada listing program, untuk  sementara biarkan saja karena kita belum membuat class _PersegiPanjang_.
-5. Buat file class Baru dengan nama [_PersegiPanjang.java_]( "Buka - Github") di package yang sama.
+5. Buat file class Baru dengan nama [PersegiPanjang.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2008/Percobaan%201/src/main/persegipanjang/PersegiPanjang.java "Buka - Github") di package yang sama.
 6. Selanjutnya sesuaikan juga listing programnya seperti yang terlihat dibawah.
 ```java
 	package main.persegipanjang;
@@ -100,7 +100,7 @@ Untuk membuat program tersebut, ikuti langkah berikut ini:
 ```
 7. Maka otomatis kesalahan yang ada pada class MainPersegiPanjang akan hilang karena class PersegiPanjang telah selesai dibuat.
 8. Compile dan jalankan project nya, sehingga hasilnya sebagai berikut: <br>
-![Output - Percobaan 1]( "Output - Percobaan 1")
+![Output - Percobaan 1](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P08%20-%2001.png "Output - Percobaan 1")
 
 > 👉 Lihat kembali penamaan class dan penggunaan package yang di pakai dalam program di atas.
 
@@ -111,7 +111,7 @@ Berikut ini adalah program untuk mencari jumlah gaji bersih dengan mengetahui ju
 
 Untuk membuat program tersebut, ikuti langkah berikut ini:
 1. Buat Project dengan nama **Percobaan 2**.
-2. Buat main class dengan nama [_Encapsulation.java_]( "Buka - Github").
+2. Buat main class dengan nama [Encapsulation.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2008/Percobaan%202/src/com/percobaan2/Encapsulation.java "Buka - Github").
 3. Sesuaikan listing program dengan yang terlihat dibawah.
 ```java
 	package com.percobaan2;
@@ -182,7 +182,7 @@ Untuk membuat program tersebut, ikuti langkah berikut ini:
 	}
 ```
 4. Compile dan jalankan project nya, sehingga hasilnya sebagai berikut: <br>
-![Output - Percobaan 2]( "Output - Percobaan 2")
+![Output - Percobaan 2](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P08%20-%2002.png "Output - Percobaan 2")
 
 > 👉 Lihat kembali penamaan class dan penggunaan package yang di pakai dalam program di atas.
 
@@ -197,6 +197,6 @@ Buatlah program untuk mencari jumlah harga yang harus dibayar jika diketahui:
 
 Langkah-langkah :<br>
 1. Buatlah sebuah project baru dengan nama **Tugas**.
-2. Sesuaikan sourcode nya seperti yang ada pada file [Main.java]( "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [Main.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2008/Tugas/src/com/tugas/pertemuan8/Main.java "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar dibawah. <br>
-![Output - Tugas]( "Output - Tugas")
+![Output - Tugas](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P08%20-%2003.png "Output - Tugas")
