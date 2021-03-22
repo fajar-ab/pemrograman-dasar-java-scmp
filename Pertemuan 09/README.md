@@ -29,28 +29,30 @@ Gambar berikut ini menunjukkan hirarki class dosen. Class dosen tersebut memilik
 
 Program berikut ini akan mmbuktikan bahwa class MHS1 merupakan class anak karena class MHS1 bisa memanggil method `setNim()`, `setNama()`, `setJurusan`, `getNim()`, `getNama()`, `getJurusan()` padahal pada class MHS1 tidak memiliki method tersebut. Mengapa demikian?? karena class anak mendapat warisan method dan attribut dari class Mahasiswa.
 1. Buat Project baru dengan nama **Percobaan 1**.
-2. Buat class file dengan nama [_MHS1.java_]( "Buka - Github").
+2. Buat class file dengan nama [_MHS1.java_](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2009/Percobaan%201/src/com/percobaan1/MHS1.java "Buka - Github").
 
-  > jika ada terdeteksi kesalahan, biarkan saja dulu, karena super classnya belum dibuat.
+>    jika ada terdeteksi kesalahan, biarkan saja dulu, karena super classnya belum dibuat.
 
 3. Selanjutnya buat _super class_, dengan _package_ yang sama.
-4. Berikan nama class baru tersebut dengan nama [_Mahasiswa.java_]( "Buka - Github").
+4. Berikan nama class baru tersebut dengan nama [_Mahasiswa.java_](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2009/Percobaan%201/src/com/percobaan1/Mahasiswa.java "Buka - Github").
 5. Compile dan jalankan project nya, sehingga hasilnya sebagai berikut: <br>
-![Output - Percobaan 1]( "Output - Percobaan 1")
+![Output - Percobaan 1](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P09%20-%2001.png "Output - Percobaan 1")
 
 ### Percobaan 2
 
 Berikut ini kita akan membuat program yang memiliki class induk/superclass _(class dosen)_ yang memiliki atribut **nama**, **nik** dan **jurusan**. Method yang dimiliki oleh class dosen adalah view(). Class turunan dari class **dosen** ada tiga class. Pada class **rektor**, terdapat tambahan atribut berupa `th_mulai` dan `jabatan_ke`, serta method `viewRektor()`. Pada class **dekan** terdapat tambahan atribut `fakultas`, dan method `viewDekan()`. Pada class **kalab** terdapat tambahan atribut `laboratorium`, dan method `viewKalab()`.
 
 1. Buat Project baru dengan nama **Percobaan 2**.
-2. Buat class file dengan nama [_Dosen_uli_v1.java_]( "Buka - Github"), buka Github sesuaikan source code nya.
-3. Buat class baru tersebut dengan nama [_rektor.java_]( "Buka - Github"), sesuaikan source code nya.
-4. Buat class baru masih di package yang sama dengan nama [_dekan.java_]( "Buka - Github").
-5. Buat class baru masih di package yang sama dengan nama [_kalap.java_]( "Buka - Github").
-6. Buat class baru masih di package yang sama dengan nama [_dosen.java_]( "Buka - Github").
+2. Buat class file dengan nama [_Dosen_uli_v1.java_](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2009/Percobaan%202/src/dosen_uli_v1/Dosen_uli_v1.java "Buka - Github"), buka Github sesuaikan source code nya.
+3. Buat class baru tersebut dengan nama [_rektor.java_](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2009/Percobaan%202/src/dosen_uli_v1/rektor.java "Buka - Github"), sesuaikan source code nya.
+4. Buat class baru masih di package yang sama dengan nama [_dekan.java_](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2009/Percobaan%202/src/dosen_uli_v1/dekan.java "Buka - Github").
+5. Buat class baru masih di package yang sama dengan nama [_kalap.java_](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2009/Percobaan%202/src/dosen_uli_v1/kalab.java "Buka - Github").
+6. Buat class baru masih di package yang sama dengan nama [_dosen.java_](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2009/Percobaan%202/src/dosen_uli_v1/dosen.java "Buka - Github").
 7. Jalankan file _Dosen_uli_v1.java_, maka akan muncul keluaran seperti gambar berikut ini: <br>
-![Output - Percobaan 1]( "Output - Percobaan 1")
+![Output - Percobaan 1](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P09%20-%2002.png "Output - Percobaan 1")
 
 ## Evaluasi dan Penugasan
 
 Buatlah sebuah class kendaraan dengan turunnnya kendaraan darat,kendaraan laut, kemudian diturunkan lagi menjadi sepeda motor dan perahu layar.
+
+> 👉 Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa program di atas.
