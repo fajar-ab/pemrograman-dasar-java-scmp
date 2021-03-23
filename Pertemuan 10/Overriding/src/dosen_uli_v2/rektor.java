@@ -14,7 +14,7 @@ public class rektor extends dosen {
     }
 
     public void view() {
-    	
+    	super.view();
     	System.out.println("Th Mulai Jabatan  : " + th_mulai);
     	System.out.println("Jabatan Rektor Ke : " + jabatan_ke);
     }

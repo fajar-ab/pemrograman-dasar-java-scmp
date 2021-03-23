@@ -63,7 +63,26 @@ public void infoMahasiswa (int mhsLama, int mhsBaru, int mhsCuti, int angkatan) 
 
 ### Contoh Konstruktor
 
-1. Buatlah sebuah project baru dengan nama **Demo Continue** dengan class *DemoContinue.java*
-2. Sesuaikan sourcode nya seperti yang ada pada file [DemoBreak.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2004/Demo%20Continue/src/democontinue/DemoContinue.java "Buka Github") berikut.
+1. Buatlah sebuah project baru dengan nama **Konstruktor** dengan class *Konstruktor.java*
+2. Sesuaikan sourcode nya seperti yang ada pada file [Konstruktor.java]( "Buka Github") berikut.
 3. Jalankan program, maka akan muncul tampilan seperti berikut ini: <br>
-![Output - Demo While](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P04%20-%2006.png "Output - Demo Continue")
+![Output - Konstruktor]( "Output - Konstruktor")
+
+### Contoh Overriding
+
+1. Buatlah sebuah project baru dengan nama **Overriding**
+2. Buat class file dengan nama [_Dosen_uli_v2.java_]( "Buka - Github"), buka Github sesuaikan source code nya.
+3. Buat class baru tersebut dengan nama [_rektor.java_]( "Buka - Github"), sesuaikan source code nya.
+4. Buat class baru masih di package yang sama dengan nama [_dekan.java_]( "Buka - Github").
+5. Buat class baru masih di package yang sama dengan nama [_kalap.java_]( "Buka - Github").
+6. Buat class baru masih di package yang sama dengan nama [_dosen.java_]( "Buka - Github").
+7. Jalankan file _Dosen_uli_v2.java_, maka akan muncul keluaran seperti gambar berikut ini: <br>
+![Output - Overriding]( "Output - Overriding")
+
+### Contoh Overloading
+
+1. Buatlah sebuah project baru dengan nama **Overloading**
+2. Buat class file dengan nama [_InformasiMhs_]( "Buka - Github"), buka Github sesuaikan source code nya.
+3. Buat class baru tersebut dengan nama [_Mahasiswa.java_]( "Buka - Github") di package yang sama, sesuaikan source code nya.
+4. Jalankan program, maka akan muncul tampilan seperti berikut ini: <br>
+![Output - Overloading]( "Output - Overloading")
