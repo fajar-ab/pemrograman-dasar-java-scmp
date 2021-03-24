@@ -46,7 +46,7 @@ Program berikut ini merupakan program untuk membangun class _kendaraan_. Pada cl
 ### Contoh 2
 
 1. Buatlah sebuah project baru dengan nama **Contoh 2 - Polimorphism**.
-2. Buat file class _” Polimorphism”_. sesuaikan sourcode nya seperti yang ada pada file [_ Polimorphism.java_](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2011/Contoh%202%20-%20Polimorphism/src/polimorphism/Polimorphism.java "Buka Github") berikut.
+2. Buat file class _” Polimorphism”_. sesuaikan sourcode nya seperti yang ada pada file [_Polimorphism.java_](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2011/Contoh%202%20-%20Polimorphism/src/polimorphism/Polimorphism.java "Buka Github") berikut.
 3. Jalankan file _Polimorphism.java_, maka akan muncul keluaran seperti gambar berikut ini: <br>
 ![Output - Polimorphism](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P11%20-%2002.png "Output - Polimorphism")
 
