@@ -85,3 +85,5 @@ public void infoMahasiswa (int mhsLama, int mhsBaru, int mhsCuti, int angkatan) 
 3. Buat class baru tersebut dengan nama [_Mahasiswa.java_](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2010/Overloading/src/com/informasimhs/Mahasiswa.java "Buka - Github") di package yang sama, sesuaikan source code nya.
 4. Jalankan program, maka akan muncul tampilan seperti berikut ini: <br>
 ![Output - Overloading](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P10%20-%2003.png "Output - Overloading")
+
+> 👉 Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa program di atas.
