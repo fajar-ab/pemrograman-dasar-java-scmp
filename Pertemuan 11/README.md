@@ -73,3 +73,5 @@ Buatlah sebuah program yang mengimplementasikan konsep polymorphisme dari sebuah
 2. Sesuaikan sourcode nya seperti yang ada pada file [_Hewan.java_](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2011/Tugas/src/com/tugas/Hewan.java "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut:
 ![Output - Hewan](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P11%20-%2004.png "Output - Hewan")
+
+> 👉 Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa program di atas.
