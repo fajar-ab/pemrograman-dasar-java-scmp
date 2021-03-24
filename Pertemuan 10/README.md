@@ -20,7 +20,7 @@
 
 ## Teori Singkat
 
-### 1. Konstruktor
+### Konstruktor
 
 + Fungsi khusus yang namanya sama dengan nama class.
 + Digunakan untuk inisialisasi.
@@ -28,7 +28,7 @@
 + Tidak mengembalikan nilai.
 + Konstruktor dapat dioverloading.
 
-### 2. Destruktor
+### Destruktor
 
 + Fungsi khusus yang namanya sama dengan nama class tetapi diawali dengan simbol `'~'`.
 + Digunakan untuk membebaskan memori.
@@ -39,11 +39,11 @@
 + Destruktor hanya terlihat jika instansiasi objeknya menggunakan alokasi memori dinamis.
 + Java mempunyai fasilitas GARBAGE COLLECTION sehingga tidak perlu untuk membuat destruktor secara eksplisit.
 
-### 3. Overriding
+### Overriding
 
 Adalah suatu cara untuk mendefinisikan ulang method yang ada pada class induk apabila class anak menginginkan adanya informasi yang lain. Overriding dilakukan dengan cara menulis ulang method yang ada pada class induk dengan syarat bahwa namadan parameter fungsi tersebut harus sama (tidak boleh diubah). Meskipun fungsi telah ditulis ulang oleh class anak, fungsi yang asli pada class induk masih dapat dipanggil di class anak dengan menggunakan class super.
 
-### 4. Overloading
+### Overloading
 
 + Adalah penulisan beberapa fungsi (dua atau lebih) yang memiliki nama yang sama. Pada bahasan overloading dikenal istilah signature. Signature adalah sebuah fungsi parameter lengkap dengan tipe datanya yang terdapat dalam fungsi tersebut. Misalnya terdapat sebuah fungsi berikut:
 ```java
