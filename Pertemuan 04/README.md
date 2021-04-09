@@ -159,4 +159,4 @@ Keyword ini hanya menghentikan perulangan yang sedang berlangsung. Kendali progr
 	- Compile dan jalankan proramnya.
 	- Maka. outputnya akan seperti diatas. <br>
 
-> 👉 Lihat kembali penamaan class dan penggunaan package yang di pakai dalam beberapa program di atas.
+> 👉 Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa program di atas.
