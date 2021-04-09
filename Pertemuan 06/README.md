@@ -165,4 +165,4 @@ Langkah-langkah :<br>
 2. Sesuaikan sourcode nya seperti yang ada pada file [Main.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2006/Contoh%206/src/com/contoh6/Contoh6.java "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar diatas.
 
-> 👉 Lihat kembali penamaan class dan penggunaan package yang di pakai dalam beberapa program di atas.
+> 👉 Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa program di atas.
