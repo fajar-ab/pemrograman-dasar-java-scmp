@@ -202,4 +202,4 @@ Langkah-langkah :<br>
 ![Output - Tugas](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P08%20-%2003.png "Output - Tugas")
 
 
-> 👉 Lihat kembali penamaan class dan penggunaan package yang di pakai dalam beberapa program di atas.
+> 👉 Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa program di atas.
