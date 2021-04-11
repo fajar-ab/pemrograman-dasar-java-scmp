@@ -80,14 +80,14 @@ Contoh :
 	</tr>
 </table>
 
-2. Liahat Program [Tugas 1 (IkonNegara)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2002/Tugas%201%20(IkonNegara "Buka di Github")/src/ikonnegara/IkonNegara.java) - GitHub. 
+2. Liahat Program [Tugas 1 (IkonNegara)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/tree/master/Pertemuan%2002/Tugas%201%20(IkonNegara)/src/ikonnegara "Buka di Github") - GitHub. 
 3. Output <br>
 	![Output - Tugas 1 (IkonNegara)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2004.png "Output - Tugas 1 (IkonNegara")
 
 ### Tugas 2 (KonversiMatauang) 
 
 1. Buatlah sebuah program konversi untuk mata uang, Rupiah ke Dollar dan Dollar ke Rupiah!
-2. Liahat Program [Tugas 2 (KonversiMatauang)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2002/Tugas%202%20(KonversiMatauang "Buka di Github")/src/konversimatauang/KonversiMatauang.java) - GitHub. 
+2. Liahat Program [Tugas 2 (KonversiMatauang)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/tree/master/Pertemuan%2002/Tugas%202%20(KonversiMatauang)/src/konversimatauang "Buka di Github") - GitHub. 
 2. Output <br>
 	![Output - Tugas 2 (KonversiMatauang)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2005.png "Output - Tugas 2 (KonversiMatauang)")
 
