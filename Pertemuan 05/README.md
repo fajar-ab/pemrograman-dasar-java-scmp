@@ -249,21 +249,21 @@ Output yang dihasilkan dari program diatas, seperti dibawah ini : <br>
 ### Contoh program Array Matriks
 
 1. Buatlah sebuah project baru dengan nama **Array Matriks**, dengan class *ArrayMatriks.java*.
-2. Sesuaikan sourcode nya seperti yang ada pada file [ArrayMatriks.java]( "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [ArrayMatriks.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2005/Array%20Matriks/src/com/array/matriks/ArrayMatriks.java "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut:
 ![Output - Array Matriks](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P05%20-%2006.png "Output - Array Matriks")
 
 ### Contoh program Array Sorting
 
 1. Buatlah sebuah project baru dengan nama **Array Sorting**, dengan class *ArraySorting.java*.
-2. Sesuaikan sourcode nya seperti yang ada pada file [ArraySorting.java]( "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [ArraySorting.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2005/Array%20Sorting/src/com/array/sorting/ArraySorting.java "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut:
 ![Output - Array Sorting](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P05%20-%2007.png "Output - Array Sorting")
 
 ### Contoh program Array Searching
 
 1. Buatlah sebuah project baru dengan nama **Array Searching**, dengan class *ArraySearching.java*.
-2. Sesuaikan sourcode nya seperti yang ada pada file [ArraySearching.java]( "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [ArraySearching.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2005/Array%20Searching/src/array/searching/ArraySearching.java "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut:
 ![Output - Array Searching](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P05%20-%2008.png "Output - Array Searching #1")
 ![Output - Array Searching](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P05%20-%2009.png "Output - Array Searching #2")
@@ -271,7 +271,7 @@ Output yang dihasilkan dari program diatas, seperti dibawah ini : <br>
 ### Contoh program Pencarian Biner
 
 1. Buatlah sebuah project baru dengan nama **Pencarian Biner**, dengan class *PencarianBiner.java*.
-2. Sesuaikan sourcode nya seperti yang ada pada file [PencarianBiner.java]( "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [PencarianBiner.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2005/Pencarian%20Biner/src/com/pencarian/biner/PencarianBiner.java "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut:
 ![Output - Pencarian Biner](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P05%20-%2010.png "Output - Pencarian Biner #1")
 ![Output - Pencarian Biner](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P05%20-%2011.png "Output - Pencarian Biner #2")
