@@ -119,7 +119,7 @@ Keyword ini hanya menghentikan perulangan yang sedang berlangsung. Kendali progr
 ### Contoh program keyword Continue
 
 1. Buatlah sebuah project baru dengan nama **Demo Continue** dengan class *DemoContinue.java*
-2. Sesuaikan sourcode nya seperti yang ada pada file [DemoBreak.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2004/Demo%20Continue/src/democontinue/DemoContinue.java "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [DemoContinue.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2004/Demo%20Continue/src/democontinue/DemoContinue.java "Buka Github") berikut.
 3. Jalankan program, maka akan muncul tampilan seperti berikut ini: <br>
 ![Output - Demo While](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P04%20-%2006.png "Output - Demo Continue")
 
