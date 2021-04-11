@@ -91,7 +91,7 @@ Contoh :
 2. Output <br>
 	![Output - Tugas 2 (KonversiMatauang)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2005.png "Output - Tugas 2 (KonversiMatauang)")
 
-> Data konversi matauang,
+> Data konversi mata uang, <br>
 > Last updated · 15 Maret 2021 · 15.00 WIB
 
 > 👉 Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa program di atas.
