@@ -67,7 +67,7 @@ Selain bentuk seleksi kondisi **if**, dalam Java juga dikenal cara penyeleksian 
 ### Contoh program penyeleksian kondisi switch:
 
 1. Buatlah sebuah project baru dengan nama **Demo Switch**, dengan class *DemoSwitch.java*.
-2. Sesuaikan sourcode pada file tersebut seperti yang ada pada file [DemoIf.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2003/Demo%20Switch/src/demoswitch/DemoSwitch.java "Buka di Github") berikut.
+2. Sesuaikan sourcode pada file tersebut seperti yang ada pada file [DemoSwitch.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2003/Demo%20Switch/src/demoswitch/DemoSwitch.java "Buka di Github") berikut.
 3. Jalankan program tersebut, maka kemungkinan hasilnya adalah:
 ![Output - Demo Switch](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P03%20-%2009.png "Output - Demo Swich #1")
 ![Output - Demo Switch](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P03%20-%2010.png "Output - Demo Swich #2")
