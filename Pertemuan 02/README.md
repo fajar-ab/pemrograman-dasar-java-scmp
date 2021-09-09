@@ -49,7 +49,7 @@ Dalam istilah pemrograman, objek merupakan instans (perwujudan) dari suatu kelas
 1. Buatlah project baru dengan nama “Demo Konversi Suhu”.
 2. Sesuai source code yang ada pada file [DemoKonversiSuhu.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2002/Demo%20Konversi%20Suhu/src/demokonversisuhu/DemoKonversiSuhu.java "Buka di Github") berikut.
 3. Jalankan program tersebut, sehingga akan tampil keluaran seperti gambar berikut:
-![Output - Mamalia Darat](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2003.png "Output - Demo Konversi Suhu")
+![Output - Mamalia Darat](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2005.png "Output - Demo Konversi Suhu")
 
 ## Evaluasi dan Penugasan
 
@@ -89,7 +89,7 @@ Contoh :
 1. Buatlah sebuah program konversi untuk mata uang, Rupiah ke Dollar dan Dollar ke Rupiah!
 2. Liahat Program [Tugas 2 (KonversiMatauang)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/tree/master/Pertemuan%2002/Tugas%202%20(KonversiMatauang)/src/konversimatauang "Buka di Github") - GitHub. 
 2. Output <br>
-	![Output - Tugas 2 (KonversiMatauang)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2005.png "Output - Tugas 2 (KonversiMatauang)")
+	![Output - Tugas 2 (KonversiMatauang)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2003.png "Output - Tugas 2 (KonversiMatauang)")
 
 > Data konversi mata uang, <br>
 > Last updated · 15 Maret 2021 · 15.00 WIB
