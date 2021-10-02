@@ -151,7 +151,7 @@ Langkah-langkah :<br>
 
 Langkah-langkah :<br>
 1. Buatlah sebuah project baru dengan nama **Contoh 6**, dengan class *Contoh6.java*.
-2. Sesuaikan sourcode nya seperti yang ada pada file [Contoh6.java]( "Buka Github") berikut.
+2. Sesuaikan sourcode nya seperti yang ada pada file [Contoh6.java](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2006/Contoh%206/src/com/contoh6/Contoh6.java "Buka Github") berikut.
 3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut: <br>
 ![Output - Contoh 6](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P06%20-%2007.png "Output - Contoh 6")
 
