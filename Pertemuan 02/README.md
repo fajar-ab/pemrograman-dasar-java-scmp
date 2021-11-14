@@ -29,6 +29,8 @@ Dalam istilah pemrograman, objek merupakan instans (perwujudan) dari suatu kelas
 
 ## Projek Kerja
 
+> 👉 Lihat penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa source code program.
+
 ### Mamalia Darat
 
 1. Buaka Text Editor / IDE.
@@ -80,19 +82,22 @@ Contoh :
 	</tr>
 </table>
 
-2. Liahat Program [Tugas 1 (IkonNegara)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/tree/master/Pertemuan%2002/Tugas%201%20(IkonNegara)/src/ikonnegara "Buka di Github") - GitHub. 
+2. Liahat Program [Tugas 1 (IkonNegara)](https://github.com/Fajar-ab/Pemrograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2002/Tugas%201%20(IkonNegara)/src/ikonnegara/IkonNegara.java "Buka di Github") - GitHub. 
 3. Output <br>
 	![Output - Tugas 1 (IkonNegara)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2004.png "Output - Tugas 1 (IkonNegara")
 
 ### Tugas 2 (KonversiMatauang) 
 
 1. Buatlah sebuah program konversi untuk mata uang, Rupiah ke Dollar dan Dollar ke Rupiah!
-2. Liahat Program [Tugas 2 (KonversiMatauang)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/tree/master/Pertemuan%2002/Tugas%202%20(KonversiMatauang)/src/konversimatauang "Buka di Github") - GitHub. 
+2. Liahat Program [Tugas 2 (KonversiMatauang)](https://github.com/Fajar-ab/Pemrograman-Dasar-JAVA-SCM/blob/master/Pertemuan%2002/Tugas%202%20(KonversiMatauang)/src/konversimatauang/KonversiMatauang.java "Buka di Github") - GitHub. 
 2. Output <br>
 	![Output - Tugas 2 (KonversiMatauang)](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P02%20-%2003.png "Output - Tugas 2 (KonversiMatauang)")
 
 > Data konversi mata uang, <br>
 > Last updated · 15 Maret 2021 · 15.00 WIB
 
+<br><br>
+
+## 📢 Perhatian
 > 👉 Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa program di atas.
 
