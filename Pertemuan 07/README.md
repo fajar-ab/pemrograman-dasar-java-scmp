@@ -27,6 +27,10 @@ Contoh:
 String judul = “Pemograman Berorientasi Objek”
 ```
 
+## Langkah Kerja
+
+> 👉 &nbsp; Lihat penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa source code project.
+
 ### Mengetahui Panjang String
 
 Untuk mengetahui panjang string dapat digunakan method `length()`. <br>
@@ -109,4 +113,7 @@ Langkah-langkah :<br>
 3. Jalankan program tersebut sehingga hasilnya seperti gambar dibawah: <br>
 ![Output - Tugas](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P07%20-%2008.png "Output - Tugas")
 
-> 👉 Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa program di atas.
+<br><br>
+
+## 📢 Perhatian
+> 👉 &nbsp; Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa ource code project di atas.

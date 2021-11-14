@@ -27,6 +27,9 @@
 
 ## Langkah Kerja
 
+> 👉 &nbsp; Lihat penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa source code project.
+
+
 ### Contoh 1
 
 Program berikut ini merupakan program untuk membangun class _kendaraan_. Pada class kendaraan mewaris ke tiga class, yaitu class _pesawat_, _mobil_, dan _kapal_.
@@ -74,4 +77,7 @@ Buatlah sebuah program yang mengimplementasikan konsep polymorphisme dari sebuah
 3. Jalankan program tersebut sehingga hasilnya seperti gambar berikut:
 ![Output - Hewan](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P11%20-%2004.png "Output - Hewan")
 
-> 👉 Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa program di atas.
+<br><br>
+
+## 📢 Perhatian
+> 👉 &nbsp; Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa ource code project di atas.

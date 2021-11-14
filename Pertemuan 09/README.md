@@ -25,6 +25,9 @@ Gambar berikut ini menunjukkan hirarki class dosen. Class dosen tersebut memilik
 
 ### Langkah Kerja
 
+> 👉 &nbsp; Lihat penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa source code project.
+
+
 ### Percobaan 1
 
 Program berikut ini akan mmbuktikan bahwa class MHS1 merupakan class anak karena class MHS1 bisa memanggil method `setNim()`, `setNama()`, `setJurusan`, `getNim()`, `getNama()`, `getJurusan()` padahal pada class MHS1 tidak memiliki method tersebut. Mengapa demikian?? karena class anak mendapat warisan method dan attribut dari class Mahasiswa.
@@ -55,4 +58,7 @@ Berikut ini kita akan membuat program yang memiliki class induk/superclass _(cla
 
 Buatlah sebuah class kendaraan dengan turunnnya kendaraan darat,kendaraan laut, kemudian diturunkan lagi menjadi sepeda motor dan perahu layar.
 
-> 👉 Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa program di atas.
+<br><br>
+
+## 📢 Perhatian
+> 👉 &nbsp; Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa ource code project di atas.

@@ -30,6 +30,8 @@
 
 ## Langkah Kerja
 
+> 👉 &nbsp; Lihat penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa source code project.
+
 ### Percobaan 1
 
 Berikut ini kita akan membuat program yang fungsinya untuk menampilkan panjang dan lebar persegi panjang serta mencari luasnya dengan menggunakan konsep enkapsulasi. Project ini akan terdiri dari 2 file, yaitu file _MainPersegiPannjang.java_ dan _PersegiPanjang.java_.
@@ -202,4 +204,7 @@ Langkah-langkah :<br>
 ![Output - Tugas](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P08%20-%2003.png "Output - Tugas")
 
 
-> 👉 Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa program di atas.
+<br><br>
+
+## 📢 Perhatian
+> 👉 &nbsp; Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa ource code project di atas.

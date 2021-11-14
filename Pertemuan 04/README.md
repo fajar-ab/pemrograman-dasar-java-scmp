@@ -73,6 +73,9 @@ Keyword ini hanya menghentikan perulangan yang sedang berlangsung. Kendali progr
 
 ## Langkah Kerja
 
+> 👉 &nbsp; Lihat penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa source code project.
+
+
 ### Contoh program perulangan For
 
 1. Buatlah sebuah project baru dengan nama **Demo For** dengan class *DemoFor.java*.
@@ -159,4 +162,7 @@ Keyword ini hanya menghentikan perulangan yang sedang berlangsung. Kendali progr
 	- Compile dan jalankan proramnya.
 	- Maka. outputnya akan seperti diatas. <br>
 
-> 👉 Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa program di atas.
+<br><br>
+
+## 📢 Perhatian
+> 👉 &nbsp; Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa ource code project di atas.

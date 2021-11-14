@@ -60,6 +60,9 @@ public void infoMahasiswa (int mhsLama, int mhsBaru, int mhsCuti, int angkatan) 
 
 ## Langkah Kerja
 
+> 👉 &nbsp; Lihat penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa source code project.
+
+
 ### Contoh Konstruktor
 
 1. Buatlah sebuah project baru dengan nama **Konstruktor** dengan class *Konstruktor.java*
@@ -86,4 +89,7 @@ public void infoMahasiswa (int mhsLama, int mhsBaru, int mhsCuti, int angkatan) 
 4. Jalankan program, maka akan muncul tampilan seperti berikut ini: <br>
 ![Output - Overloading](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P10%20-%2003.png "Output - Overloading")
 
-> 👉 Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa program di atas.
+<br><br>
+
+## 📢 Perhatian
+> 👉 &nbsp; Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa ource code project di atas.

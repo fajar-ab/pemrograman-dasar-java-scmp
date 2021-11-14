@@ -246,6 +246,8 @@ Output yang dihasilkan dari program diatas, seperti dibawah ini : <br>
 
 ## Langkah Kerja
 
+> 👉 &nbsp; Lihat penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa source code project.
+
 ### Contoh program Array Matriks
 
 1. Buatlah sebuah project baru dengan nama **Array Matriks**, dengan class *ArrayMatriks.java*.
@@ -276,4 +278,7 @@ Output yang dihasilkan dari program diatas, seperti dibawah ini : <br>
 ![Output - Pencarian Biner](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P05%20-%2010.png "Output - Pencarian Biner #1")
 ![Output - Pencarian Biner](https://github.com/Fajar-ab/Pemograman-Dasar-JAVA-SCM/blob/master/Image/%23P05%20-%2011.png "Output - Pencarian Biner #2")
 
-> 👉 Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa program di atas.
+<br><br>
+
+## 📢 Perhatian
+> 👉 &nbsp; Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa ource code project di atas.
