@@ -1,8 +1,6 @@
 /**
- * Title		: Program Demo Konversi Suhu - Pertemuan 2
- * Deskripsi	: Penggunaan kostanta dalam program
- *				  
- * 
+ * Title      : Program Demo Konversi Suhu - Pertemuan 2
+ * Deskripsi  : Penggunaan kostanta dalam program
  */
 
 package demokonversisuhu;

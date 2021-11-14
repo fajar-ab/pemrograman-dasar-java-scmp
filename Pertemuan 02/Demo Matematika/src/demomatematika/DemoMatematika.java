@@ -1,7 +1,7 @@
 /**
- * Title		: Progaram Demo Matematika - Pertemuan 2
- * Deskripsi	: Mengenal konsep OOP dengan mengenal beberapa perhitungan
- *				  matematika sederhana
+ * Title      : Progaram Demo Matematika - Pertemuan 2
+ * Deskripsi  : Mengenal konsep OOP dengan mengenal beberapa perhitungan
+ *              matematika sederhana
  */
 
 package demomatemetika;

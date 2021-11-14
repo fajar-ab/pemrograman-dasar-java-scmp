@@ -1,7 +1,7 @@
 /**
- * Title		: Program Mamalia Darat - Pertemuan 2
- * Deskripsi	: Mendemonstrasikan bagan dan deklarasi kelas, data dan method
- *				  sederhana dari mamalia darat 
+ * Title      : Program Mamalia Darat - Pertemuan 2
+ * Deskripsi  : Mendemonstrasikan bagan dan deklarasi kelas, data dan method
+ *              sederhana dari mamalia darat 
  */
 
 package mamaliadarat;
