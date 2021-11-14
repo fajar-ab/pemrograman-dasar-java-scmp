@@ -1,8 +1,6 @@
 package com.program1;
 import java.util.Scanner;
 
-// @autor Fajar_Fadilah
-
 public class Tugas {
     
     public static void main(String[] args) {
