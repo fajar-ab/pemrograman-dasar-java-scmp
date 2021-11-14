@@ -29,7 +29,7 @@ Dalam istilah pemrograman, objek merupakan instans (perwujudan) dari suatu kelas
 
 ## Projek Kerja
 
-> 👉 Lihat penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa source code project.
+> 👉 &nbsp; Lihat penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa source code project.
 
 ### Mamalia Darat
 
@@ -99,5 +99,5 @@ Contoh :
 <br><br>
 
 ## 📢 Perhatian
-> 👉 Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa ource code project di atas.
+> 👉 &nbsp; Lihat kembali penamaan **class** dan penggunaan **package** yang di pakai dalam beberapa ource code project di atas.
 
