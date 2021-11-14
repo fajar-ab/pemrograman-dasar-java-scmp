@@ -1,4 +1,9 @@
-// Program Demo Konversi Suhu - Pertemuan 2
+/**
+ * Title		: Program Demo Konversi Suhu - Pertemuan 2
+ * Deskripsi	: Penggunaan kostanta dalam program
+ *				  
+ * 
+ */
 
 package demokonversisuhu;
 
@@ -40,7 +45,7 @@ public class DemoKonversiSuhu {
 		hasilFahrenheit = tem.toFarenheit(suhuCelcius);
 		hasilCelcius = tem.toCelcius(suhuFahrenheit);
 
-		// output
+		// Mecetak hasil ke console
 		System.out.println("\nPROGRAM DEMO KONVERSI SUHU");
 		System.out.println("---------------------------");
 		System.out.printf("Suhu Celcius           = %.2f Derajat\n", suhuCelcius);

@@ -1,4 +1,8 @@
-// Program Mamalia Darat - Pertemuan 2
+/**
+ * Title		: Program Mamalia Darat - Pertemuan 2
+ * Deskripsi	: Mendemonstrasikan bagan dan deklarasi kelas, data dan method
+ *				  sederhana dari mamalia darat 
+ */
 
 package mamaliadarat;
 import java.util.Scanner;
@@ -6,7 +10,7 @@ import java.util.Scanner;
 class MamaliaDarat {
 
 	public static void main(String[] args) {
-		// Deklarasi data
+		// Mndeklarasikan dan menginisialisai data
 		String suaraHewan = "";
 
 		System.out.println("\nDEMO KELAS, METHOD, DAN DATA");
