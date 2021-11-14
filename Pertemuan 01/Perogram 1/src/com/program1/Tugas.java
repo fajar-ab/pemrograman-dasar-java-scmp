@@ -19,9 +19,9 @@ public class Tugas {
 
     	Operasi akhir = new Operasi(x, y);
 
-    	System.out.println("Hasil Penjumlahan : " + akhir.getNilaiPenjumlahan());
-        System.out.println("Hasil Pengurangan : " + akhir.getNilaiPenjumlahan());
-        System.out.println("Hasil Perkalian   : " + akhir.getNilaiPenjumlahan());
-        System.out.println("Hasil Pembagian   : " + akhir.getNilaiPenjumlahan());
+    	System.out.println("Hasil Penjumlahan : " + akhir.nilaiPenjumlahan());
+        System.out.println("Hasil Pengurangan : " + akhir.nilaiPenjumlahan());
+        System.out.println("Hasil Perkalian   : " + akhir.nilaiPerkalian());
+        System.out.println("Hasil Pembagian   : " + akhir.nilaiPembagian();
     }
 }
