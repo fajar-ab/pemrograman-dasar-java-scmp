@@ -1,11 +1,16 @@
-// Program Demo If Else - Pertemuan 3s
+/**
+ * Title      : Program Demo If Else - Pertemuan 3
+ * Deskripsi  : Menggunakan if Else untuk menyeleksi nilai ujian dan 
+ *              menentukan grade kelulusannya
+ *              
+ */
 
 package demoifelse;
 import java.util.Scanner;
 
 public class DemoIfElse {
 
-	// METHOD UTAMA
+	/** MAIN METHOD */
 	public static void main(String[] args) {
 		Scanner userInput = new Scanner(System.in);
 		double nilaiInput;
@@ -17,10 +22,12 @@ public class DemoIfElse {
 		System.out.print("Masukkan Nilai [0 - 100] : ");
 		nilaiInput = userInput.nextDouble();
 
-		// seleksi nilai range
+		// seleksi nilai range dari 0-100
 		if((nilaiInput < 0) || (nilaiInput > 100)) {
 			System.out.println("\nData yang di input Invalid !");
-		}else {
+		}
+		// Kalau input valid, lakukan istruksi berikut
+		else {
 
 			// menyeleksi kondisi
 			if(nilaiInput >= 60) {

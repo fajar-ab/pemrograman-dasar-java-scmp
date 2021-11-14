@@ -1,4 +1,8 @@
-// Program Demo Break - Pertemuan 4
+/**
+ * Title      : Program Demo Break - Pertemuan 4
+ * Deskripsi  : Mendemostrasikan pemakaian break untuk menghentikan
+ *              perulangan    
+ */
 
 package demobreak;
 
@@ -12,7 +16,9 @@ public class DemoBreak {
 
     	while(counter < 100) {
     		counter++;
-    		if(counter == 7) break;
+
+			// jika kondisi di bawah terpenuhi, hentikan perulangan
+    		if(counter == 7) break; 
     	}
 
     	System.out.println("Counter terakhir adalah: " + counter);

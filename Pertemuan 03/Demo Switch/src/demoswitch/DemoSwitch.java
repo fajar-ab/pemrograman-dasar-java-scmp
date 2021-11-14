@@ -1,4 +1,8 @@
-// Program Demo Switch - Pertemuan 3
+/**
+ * Title      : Program Demo Switch - Pertemuan 3
+ * Deskripsi  : Menggunakan Switch untuk menyeleksi jadwal kuliah
+ *              mahasiswa.
+ */
 
 package demoswitch;
 import java.util.Scanner;

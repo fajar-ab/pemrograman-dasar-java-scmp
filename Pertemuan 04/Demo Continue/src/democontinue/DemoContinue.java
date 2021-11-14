@@ -1,4 +1,8 @@
-// Program Demo Continue - Pertemuan 4
+/**
+ * Title      : Program Demo Continue - Pertemuan 4
+ * Deskripsi  : Mendemostrasikan pemakaian continue untuk menghentikan
+ *              sementara proses perulangan.    
+ */
 
 package democontinue;
 
@@ -11,6 +15,8 @@ public class DemoContinue {
     	System.out.println("----------------------");
 
     	for(int counter = 1; counter <= 5; counter++) {
+			
+			// menghentikan sementara proses perulangan jika couner = 3.    
     		if(counter == 3) {
     			counterDiabaikan = counter;
     			continue;

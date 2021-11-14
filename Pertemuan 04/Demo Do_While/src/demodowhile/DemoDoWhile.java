@@ -1,10 +1,8 @@
-/*
-	Title      : Program Demo Do..While
-	
-	Deskripsi  : Mendemonstrasikan pemakaian perulangan do..while untuk
-	             mencetak statement ke console sebanyak n kali.
-
-*/
+/**
+ * Title      : Program Demo Do..While
+ * Deskripsi  : Mendemonstrasikan pemakaian perulangan do..while untuk
+ *              mencetak statement ke console sebanyak n kali.           
+ */
 
 package demodowhile;
 
@@ -17,11 +15,14 @@ public class DemoDoWhile {
  		System.out.println("\nProgram Demo Do...While");
  		System.out.println("------------------------");
 
- 		// perulangan dengan do..while
+ 		// memberikan perintah untuk dikerjakan jika kondisi dipenuhi
  		do {
  			System.out.println("Mengecek counter ke-" + counter);
+
+			 // menambahkan nilai counter persetiap loop denga 1
  			counter++;
 
+		// menyatakan "counter <= 5" sebagi kondisi perulangan	 
  		}while(counter <= 5);
  	}
 }
